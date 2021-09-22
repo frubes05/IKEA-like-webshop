@@ -1,0 +1,48 @@
+.section-one {
+    grid-column: span 9;
+
+    &__images {
+        display: grid;
+        @include grid($grid-template-columns: 1fr 1fr, $grid-gap: 1rem);
+
+        @include mobile() {
+            @include flex();
+        }
+
+        @include tablet() {
+            @include flex();
+        }
+    }
+
+    &__image {
+        height: 420px;
+        width: 420px;
+
+        @include mini-desktop() {
+            height: 270px;
+            width: 270px;
+        }
+
+        @include mobile() {
+            height: 360px;
+            width: auto;
+        }
+
+        @include tablet() {
+            height: 380px;
+            width: auto
+        }
+    }
+
+    @include mobile {
+        grid-column: span 12;
+    }
+
+    @include tablet() {
+        grid-column: span 12;
+    }
+
+    @include mini-desktop() {
+        grid-column: span 8;
+    }
+}

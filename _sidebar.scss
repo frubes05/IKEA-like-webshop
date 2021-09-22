@@ -1,0 +1,191 @@
+.sidebar {
+    position: fixed;
+    top: 0;
+    right: 0;
+    height: 100%;
+    width: 500px;
+    background-color: white;
+    z-index: 2;
+    border-radius: 10px 0 0 0;
+    transform: scaleX(0);
+    transform-origin: right;
+    transition: all 0.3s ease-in-out;
+
+    &-grow {
+        transform-origin: right;
+        transform: scaleX(1);
+        overflow-y: scroll;
+    }
+
+   &__order{
+    padding:20px 40px 0 90px;
+    font-size: 14px;
+    @include flex($flex-direction:column,$gap:10px);
+   }
+
+   &__button-options{
+       margin:0 60px 0 40px;
+       display: none;
+       border-bottom: 1px solid $border-color;
+       @include flex($gap:10px);
+   }
+
+   &__buttons-button{
+
+    &--active{
+        border-bottom: 3px solid #1859a3;
+    }
+   }
+
+   &__locations-item{
+    margin: 20px 0;
+    width: 100%;
+   }
+
+   &__btn{
+       @include button();
+   }
+
+   &__locations-items{
+       @include flex($justify-content:flex-start);
+       flex-wrap: wrap;
+   }
+
+   &__locations-location{
+       @include flex($justify-content:space-between,$align-items:center);
+       font-weight: bold;
+       color: black;
+       padding: 0 0 5px 0;
+   }
+
+   &__locations-choice{
+       position: fixed;
+       bottom: 25px;
+       display: none;
+       width: 100%;
+       @include flex($justify-content:center);
+   }
+
+   &__locations-button--place{
+       border:none;
+       width: 100%;
+       @include button($padding:20px 40px,$bg:inherit,$border-radius:5px,$border:1px solid $border-color);
+
+       &:hover{
+           border:1px solid black;
+       }
+   }
+
+   &__locations-button{
+    @include button($padding:15px 25px,$border-radius:30px,$bg:black,$color:white);
+   }
+
+    &-grow--products {
+        transform-origin: right;
+        transform: scaleX(1);
+    }
+
+    &--selected {
+        overflow-y: hidden;
+    }
+
+    &__blue {
+        background-color: #1859a3;
+        padding: 40px;
+    }
+
+    &__white {
+        display: none;
+        background-color: $color-white;
+        padding: 40px 40px 0px;
+        //overflow-y: scroll;
+
+        &--one{
+            display: none;
+        }
+    }
+
+
+
+    &__detail-info {
+        @include flex($flex-direction: column, $gap: 40px);
+    }
+
+    &__exit {
+        display: flex;
+        justify-content: flex-end;
+        padding: 0 0 20px;
+
+        &--detail {
+            @include flex($justify-content:space-between,$align-items:center);
+            h2{
+                flex-grow: 1;
+            }
+            svg {
+                fill: black;
+            }
+        }
+    }
+
+    &__button {
+        @include button();
+
+        svg {
+            height: 1rem;
+        }
+
+        &--detail {
+            background-color: inherit;
+            padding: 7.5px 5px;
+            border-radius: 50%;
+        }
+    }
+
+    &__title {
+        font-size: 20px;
+        font-weight: bold;
+        color: $color-text-black;
+        text-align: center;
+
+        &--detail {
+            font-size: 30px;
+            font-weight: bold;
+            color: black;
+        }
+    }
+
+    &__text {
+        padding: 20px 0;
+    }
+
+    &__text-details {
+        &--more {
+            @include flex($flex-direction: column, $gap: 5px);
+        }
+
+        &--design {
+            color: black;
+            font-weight: bold;
+        }
+
+        &--amount {
+            width: 90px;
+        }
+    }
+
+    &__link {
+        @include link();
+        text-decoration: underline;
+
+        &--detail {
+            display: inline-block;
+            padding: 20px 0;
+            color: white;
+        }
+    }
+
+    &__opacity {
+        opacity: 0.5;
+        transition: all 0.2s ease-in-out;
+    }
+}

@@ -1,0 +1,589 @@
+.products {
+    //@include container-padding();
+
+    &--detail {
+        grid-column: 2/3;
+    }
+
+    &--main{
+        grid-column: 2/4;
+    }
+
+    &__title {
+        padding: 75px 0 40px;
+        font-size: 40px;
+
+        @include mini-desktop() {
+            padding: 75px 0 0;
+        }
+    }
+
+    &__list {
+        @include grid($grid-template-columns: repeat(4, 1fr), $grid-gap: 20px);
+        justify-content: center;
+        padding: 60px 0;
+        border-top: 1px solid $border-color;
+        border-bottom: 1px solid $border-color;
+        grid-row-gap: 100px;
+
+        @include mobile() {
+            @include container-padding();
+            padding: 40px 0;
+            @include grid($grid-template-columns: repeat(2, 1fr), $grid-gap: 20px);
+        }
+
+        @include tablet() {
+            @include container-padding();
+            padding: 40px 0;
+            @include grid($grid-template-columns: repeat(3, 1fr), $grid-gap: 20px);
+        }
+
+        @include mini-desktop() {
+            @include container-padding();
+            padding: 40px 0;
+            @include grid($grid-template-columns: repeat(4, 1fr), $grid-gap: 20px);
+        }
+    }
+
+    &__item {
+        &:hover {
+            .products__cart {
+                display: block;
+            }
+
+            .products__image--first {
+                display: none;
+            }
+
+            .products__image--second {
+                display: block;
+            }
+        }
+    }
+
+    &__article {
+        @include flex($flex-direction: column, $justify-content: center, $align-items: flex-start, $gap: 10px);
+    }
+
+    &__article-images {
+        position: relative;
+    }
+
+    &__images{
+
+        &--detail{
+            @include flex($justify-content:flex-end,$align-items:center);
+        }
+    }
+
+    &__image{
+        height: 300px;
+        width: auto;
+
+        &--detail {
+            height: 70px;
+            width: auto;
+        }
+
+        &--first {
+            display: block;
+        }
+
+        &--second {
+            display: none;
+        }
+
+        
+
+        @include mobile() {
+            height: 190px;
+            width: auto;
+        }
+
+        @include tablet() {
+            height: 210px;
+            width: auto;
+        }
+
+        @include mini-desktop() {
+            height: 200px;
+            width: auto;
+        }
+
+        &--delivery{
+            height: 100px;
+            width: auto;
+
+            @include mini-desktop(){
+                height: 80px;
+                width: auto;
+            }
+        }
+    }
+
+    &__link {
+        color: black;
+    }
+
+    &__new {
+        color: $color-orange;
+    }
+
+    &__description {
+        color: #696969;
+        font-size: $font-size-smaller;
+
+        &--detail {
+            padding: 10px 0;
+            width: 350px;
+            font-size: 20px;
+            padding: 50px 0 20px;
+        }
+        &--measures{
+            padding: 5px 0;
+        }
+
+        &--quantity{
+            padding: 5px 0;
+        }
+    }
+
+    &__number {
+        padding: 10px 0 20px;
+
+        &--instructions {
+        }
+    }
+
+    &__amount {
+        background-color: #191919;
+        color: white;
+        display: inline-block;
+        padding: 2px 5px;
+        margin-bottom: 50px;
+    }
+
+    &__ratings {
+        padding: 10px 0 20px;
+        border-bottom: 1px solid $border-color;
+
+        svg {
+            height: 1rem;
+        }
+
+        &--detail {
+            border-bottom: none;
+        }
+    }
+
+    &__price {
+        font-size: $font-size-bigger;
+        font-weight: bold;
+
+        &--selected {
+            background-color: yellow;
+            box-shadow: 2px 2px #e12051;
+            padding: 2px 5px;
+            display: inline-block;
+            margin: 5px 0;
+        }
+
+        &--section {
+            color: $color-text-black;
+            padding: 5px 0;
+        }
+
+        &-div{
+            padding:10px 0;
+            justify-self: end;
+        }
+
+        &--delivery{
+            font-size: 14px;
+            font-weight: bold;
+        }
+    }
+
+    &__sup {
+        vertical-align: super;
+        font-size: 10px;
+    }
+
+    &__value {
+        padding-left: 5px;
+    }
+
+    &__button {
+        @include button($padding: 10px 20px, $border-radius: 20px);
+        white-space: nowrap;
+
+        &:hover {
+            background-color: $color-gray-light-medium;
+        }
+    }
+
+    &__button--link {
+        background-color: inherit;
+        font-size: $font-size-smaller;
+
+        &:hover {
+            background-color: inherit;
+            color: $color-gray-medium;
+            text-decoration: underline;
+        }
+    }
+
+    &__button--svg {
+        @include flex($align-items: center);
+
+        svg {
+            height: 0.8rem;
+        }
+    }
+
+    &__rotate {
+        transform: rotate(90deg);
+    }
+
+    &__number {
+        font-size: $font-size-smaller;
+    }
+
+    &__filter-list {
+        @include flex($justify-content: space-between, $gap: 30px);
+        padding: 20px 0;
+
+        @include mini-desktop() {
+            @include flex($justify-content: space-between, $gap: 30px);
+        }
+
+        @include mobile() {
+            padding-bottom: 20px;
+            @include grid($grid-template-columns: 1fr);
+        }
+
+        @include tablet() {
+            padding-bottom: 20px;
+            @include grid($grid-template-columns: 1fr);
+        }
+    }
+
+    &__filter-primary {
+        @include flex($align-items: center, $gap: 20px);
+
+        @include mobile() {
+            overflow-x: scroll;
+            margin: 40px 0;
+            padding: 20px 0;
+        }
+
+        @include tablet() {
+            overflow-x: scroll;
+            margin: 40px 0;
+            padding: 20px 0;
+        }
+
+        @include mini-desktop() {
+            overflow-x: scroll;
+            margin: 40px 0;
+            padding: 20px 0;
+        }
+    }
+
+    &__cart {
+        align-self: flex-end;
+        display: none;
+    }
+
+    &__cart-button {
+        @include button($padding: 5px 7px, $border-radius: 50%, $bg: #1859a3);
+    }
+
+    &__cart-svg {
+        fill: $color-white;
+        height: 1.2rem;
+        width: auto;
+    }
+
+    &__wrapper-info {
+        @include flex($justify-content: space-between);
+        width: 100%;
+        padding: 0 30px 0 0;
+    }
+
+    &__filter-secondary {
+        @include flex($align-items: center, $gap: 5px);
+        width: 100%;
+
+        @include mobile() {
+            li {
+                &:first-of-type {
+                    margin-right: auto;
+                }
+            }
+        }
+
+        @include tablet() {
+            li {
+                &:first-of-type {
+                    margin-right: auto;
+                }
+            }
+        }
+
+        @include mini-desktop() {
+            @include flex($justify-content: flex-end);
+        }
+    }
+
+    &__info-div {
+        grid-column: 1/9;
+        @include grid($grid-template-columns: repeat(8, 1fr));
+
+        p {
+            grid-column: 1/8;
+        }
+
+        svg {
+            grid-column: 9/10;
+        }
+
+        &--active {
+            grid-column: 1/9;
+            @include grid($grid-template-columns: repeat(8, 1fr));
+        }
+
+        &--numbers {
+            grid-row-start: 1;
+            padding: 20px 0;
+            cursor: pointer;
+        }
+    }
+
+    &__info-title {
+        grid-column: 2/9;
+        grid-row-start: 1;
+        font-size: 25px;
+        font-weight: bold;
+
+        @include mini-desktop(){
+            grid-column: 3/7;
+            grid-row-start: 1;
+        }
+    }
+
+    &__info-numbers {
+        display: inline-flex;
+        align-items: center;
+        color: #696969;
+        position: relative;
+        font-size: 20px;
+
+        &::before {
+            content: "";
+            height: 1.5em;
+            width: 1.5em;
+            background: white;
+            z-index: -1;
+            transform: translateX(70%);
+            border-radius: 50%;
+            border:2px solid #696969;
+        }
+
+        @include mini-desktop(){
+            grid-column-start: 2;
+        }
+    }
+
+    &__info-numbers--active {
+        display: inline-flex;
+        align-items: center;
+        color: white;
+        position: relative;
+        font-size: 20px;
+
+        &::before {
+            content: "";
+            height: 1.5em;
+            width: 1.5em;
+            background: black;
+            z-index: -1;
+            transform: translateX(70%);
+            border-radius: 50%;
+            border:2px solid black;
+        }
+    }
+
+    &__info-change{
+        grid-row-start: 1;
+        
+        @include mini-desktop(){
+            grid-row-start: 1;
+        }
+    }
+
+    &__info-list {
+        @include flex($flex-direction: column, $align-items: flex-start);
+        border-top: 1px solid $border-color;
+    }
+
+    &__info-item {
+        width: 100%;
+
+        &:not(:last-of-type) {
+            border-bottom: 1px solid $border-color;
+        }
+
+        svg {
+            height: 0.8rem;
+        }
+
+        &--instructions{
+            
+
+            svg{
+                height: 1.5rem;
+            }
+        }
+    }
+
+    &__info-button {
+        font-weight: bold;
+        @include button($color: $color-text-black);
+        width: 100%;
+        text-align: left;
+        font-size: 20px;
+        @include grid($grid-template-columns: repeat(8, 1fr));
+        height: auto;
+        padding: 20px 0;
+
+        &--form {
+            padding: 0;
+        }
+    }
+
+    &__info-recensions {
+        grid-column: 1/8;
+        p {
+            padding-bottom: 5px;
+        }
+
+        svg {
+            height: 1rem;
+        }
+    }
+
+    &-variants__list {
+        @include flex($gap: 10px);
+        padding: 5px 0;
+    }
+
+    &-variants__image {
+        height: 60px;
+        width: auto;
+    }
+
+    &-variants__property {
+        color: $color-text-black;
+        font-weight: bold;
+        padding: 20px 0;
+
+        &-variant {
+            @include flex($justify-content: space-between, $align-items: center);
+
+            svg {
+                height: 0.8rem;
+            }
+        }
+    }
+
+    &-variants__variant {
+        color: $color-gray-medium-medium;
+    }
+
+    &-variants__buttons {
+        @include flex($justify-content: space-between, $gap: 20px);
+        padding: 10px 0 20px;
+
+        &-one {
+            width: 200px;
+            font-weight: bold;
+            @include button($border-radius: 20px, $padding: 5px 20px, $bg: #1859a3, $color: $color-white);
+            flex-grow: 1;
+        }
+
+        &-two {
+            @include button($border-radius: 50%);
+            padding: 5px;
+            border: 1px solid $border-color;
+
+            svg {
+                height: 1rem;
+            }
+        }
+    }
+
+    &-options,
+    &-storage {
+        @include flex($justify-content: flex-start, $align-items: center, $gap: 10px);
+        padding: 15px 0;
+        height: 0.8rem;
+
+        svg {
+            width: 40px;
+        }
+
+        @include mini-desktop() {
+            svg {
+                width: 40px;
+            }
+        }
+    }
+
+    &-options {
+        padding-bottom: 20px;
+        border-bottom: 1px solid $border-color;
+        font-size: $font-size-smaller;
+    }
+
+    &-storage {
+        padding-top: 20px;
+        font-size: $font-size-smaller;
+    }
+
+    &__name {
+        color: $color-text-black;
+        padding: 5px 0;
+    }
+
+    &__name--flex {
+        @include flex($justify-content: space-between);
+        font-size: 14px;
+        padding: 10px 0;
+        font-weight: bold;
+    }
+
+    @include mobile() {
+        @include container-padding();
+
+        &--details {
+            padding: 0;
+        }
+    }
+
+    @include tablet() {
+        @include container-padding();
+
+        &--details {
+            padding: 0;
+        }
+    }
+
+    @include mini-desktop() {
+        @include container-padding();
+
+        &--details {
+            padding: 0;
+        }
+    }
+}

@@ -1,0 +1,55 @@
+.breadcrumbs{
+    padding: 0 0 20px;
+    border-bottom: 1px solid $border-color;
+
+    @include container-padding(){
+        padding-bottom: 20px;
+    };
+    
+    &__list{
+        font-weight: bold;
+        @include flex($align-items:center);
+
+        a{
+            color: $color-text-black;
+
+            &:hover{
+                text-decoration: underline;
+                text-decoration-color: $color-gray-medium;
+                color: $color-gray-medium;
+            }
+        }
+
+        span{
+            color:$color-gray-medium-medium;
+        }
+    }
+
+    &__item{
+
+        &--mobile{
+            @include tablet(){
+                display: none;
+            }
+
+            @include mobile(){
+                display: none;
+            }
+        }
+    }
+
+    &__svg{
+        height: 0.5rem;
+        fill:$color-gray-medium;
+    }
+
+    @include tablet(){
+        @include container-padding();
+        padding-bottom: 20px;
+    }
+
+    @include mini-desktop(){
+        @include container-padding();
+        padding-bottom: 20px;
+    }
+}

@@ -1,0 +1,19 @@
+.benefits{
+    padding:10px 0;
+    background-color: $color-success;
+    height: auto;
+    @include flex($justify-content:center,$gap:40px);
+
+    &__info{
+        @include flex($justify-content:center,$align-items:center,$gap:15px);
+        fill: $color-white;
+        color: $color-white;
+    }
+    @include mobile(){
+        display: none;
+    }
+
+    @include tablet(){
+        display: none;
+    }
+}

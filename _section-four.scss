@@ -1,0 +1,28 @@
+.section-four{
+    grid-column: 1/10;
+    @include container-padding();
+    
+    &__list{
+        @include flex($justify-content:space-between);
+
+        @include mobile(){
+            @include flex();
+            //overflow-x: scroll;
+            padding-bottom: 20px;
+        }
+
+        @include tablet(){
+            @include flex();
+            //overflow-x: scroll;
+            padding-bottom: 20px;
+        }
+    }
+
+    @include tablet(){
+        @include container-padding();
+    }
+
+    @include mini-desktop(){
+        @include container-padding-both();
+    }
+}

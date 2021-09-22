@@ -1,0 +1,292 @@
+.cart {
+    @include grid();
+    @include container-padding();
+
+    &-section {
+        grid-column: 1/8;
+        @include grid($grid-template-columns: 1fr, $grid-gap: 40px);
+
+        @include mobile() {
+            grid-row-start: 2;
+            grid-row-end: 3;
+            grid-column-start: 1;
+        }
+
+        @include tablet() {
+            grid-row-start: 2;
+            grid-row-end: 3;
+            grid-column: 1/18;
+        }
+    }
+
+    &-section__button {
+        @include button();
+        @include flex($justify-content: space-between, $align-items: center);
+        grid-column: 1/4;
+        height: 100%;
+        font-size: 20px;
+        font-weight: bold;
+        padding-bottom: 40px;
+
+        svg {
+            height: 1rem;
+        }
+    }
+
+    &-section__chevron--rotate {
+        transform: rotate(90deg);
+        transition: all 0.2s ease-in-out;
+    }
+
+    &-section__item {
+
+        &--all{
+
+            &:not(:first-of-type) {
+                border-top: 1px solid $border-color;
+            }
+        }
+
+        &--selected{
+            border-bottom: 1px solid $border-color;
+
+            &:first-of-type {
+                border-top: 1px solid $border-color;
+            }
+    
+            &:not(:last-of-type) {
+                border-bottom: 1px solid $border-color;
+            }
+        }
+
+        &--detail{
+
+            &:not(:last-of-type){
+                border: 1px solid $border-color;
+            }
+
+            &:last-of-type{
+                border-bottom: 1px solid $border-color;
+            }
+        }
+
+        
+    }
+
+    &-section__relative{
+        position: relative;
+        height: 100%;
+    }
+
+    &-section__title {
+        font-size: 30px;
+        font-weight: bold;
+    }
+
+    &-section__list {
+        @include grid($grid-template-columns: 1fr, $grid-gap: 20px);
+
+        &--sidebar {
+            @include grid($grid-template-columns: 1fr);
+            position: absolute;
+            top:0;
+            right: 0;
+            left: 0;
+            height: 600px;
+            overflow-y: scroll;
+
+        }
+
+        &--detail {
+            @include grid($grid-template-columns: 1fr);
+            height: auto;
+        }
+
+        &--selected{
+            @include grid($grid-template-columns: 1fr);
+            position: absolute;
+            top:0;
+            right: 0;
+            height: 840px;
+            overflow-y: scroll;
+        }
+    }
+
+    &-section__locations{
+        padding:20px 40px;
+        height: 700px;
+        border-bottom: 1px solid $border-color;
+    }
+
+    &-section__products {
+        @include grid($grid-template-columns: repeat(3, 1fr), $grid-gap: 20px);
+        padding:10px 40px;
+
+        &--all{
+            padding: 40px 40px;
+        }
+
+        &--detail {
+            @include button($padding: 0 40px);
+            @include flex($justify-content: space-between, $align-items: center);
+            padding: 20px 40px;
+            width: 100%;
+            color: $color-gray-dark-light;
+
+        &--selected{
+            padding:5px 40px;
+        }
+
+            span {
+                font-size: 20px;
+                font-weight: bold;
+            }
+
+            svg {
+                height: 1rem;
+                fill: $color-gray-dark-light;
+            }
+
+            &:hover {
+                .cart-section__options-title {
+                    color: black;
+                    text-decoration-color: black;
+                    text-decoration: underline;
+                }
+
+                svg {
+                    fill: black;
+                }
+            }
+        }
+    }
+
+    &-section__products--informations {
+        @include flex($flex-direction: column, $gap: 30px);
+        visibility: hidden;
+        height: 0;
+        span {
+            font-size: 14px;
+        }
+    }
+
+    &-section__products--open {
+        visibility: visible;
+        height: auto;
+        padding: 10px 40px 40px;
+        transition: visibility 0.2s ease-in-out;
+    }
+
+    &-section__products--material {
+        @include flex($flex-direction: column, $gap: 5px);
+    }
+
+    &-section__image {
+        height: 200px;
+        width: auto;
+
+        @include mobile() {
+            height: 60px;
+            width: auto;
+        }
+
+        @include tablet() {
+            height: 100px;
+            width: auto;
+        }
+
+        @include mini-desktop() {
+            height: 150px;
+            width: auto;
+        }
+    }
+
+    &-section__description {
+        justify-self: start;
+        @include flex($flex-direction: column, $justify-content: center);
+    }
+
+    &-section__secondary {
+        padding-top: 40px;
+        @include flex($align-items: center, $gap: 20px);
+    }
+
+    &-section__info {
+        position: relative;
+    }
+
+    &-section__related {
+        font-size: 30px;
+        font-weight: bold;
+        padding: 40px;
+    }
+
+    &-section__quantity {
+        @include button($padding: 10px 40px, $border-radius: 30px, $border: 1px solid $border-color);
+        -webkit-appearance: none;
+        -moz-appearance: none;
+
+        &:focus {
+            outline: none;
+        }
+    }
+
+    &-section__arrow {
+        position: absolute;
+        right: 12px;
+        top: 12px;
+        height: 0.8rem;
+        cursor: pointer;
+    }
+
+    &-section__remove {
+        white-space: nowrap;
+        @include button($color: darkgrey);
+
+        &:hover {
+            @include button($color: black);
+        }
+    }
+
+    &-section__save {
+        white-space: nowrap;
+        @include button($color: darkgrey);
+
+        &:hover {
+            @include button($color: black);
+        }
+
+        @include mobile() {
+            display: none;
+        }
+
+        @include tablet() {
+            display: none;
+        }
+
+        @include mini-desktop() {
+            white-space: initial;
+        }
+    }
+
+    &-section__price {
+        justify-self: end;
+    }
+
+    &-recommended {
+        @include container-padding();
+    }
+
+    &-recommended__list {
+        //overflow-x: scroll;
+    }
+
+    &-recommended__image {
+        height: 300px;
+        width: auto;
+    }
+
+    @include mobile() {
+        @include grid($grid-template-columns: 1fr);
+    }
+}

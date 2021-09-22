@@ -1,0 +1,32 @@
+.show-more{
+    padding-top: 60px;
+    @include flex($flex-direction:column,$align-items:center,$justify-content:center,$gap:20px);
+    font-size: 12px;
+
+    &__amount{
+        color:$color-gray-medium-medium;
+    }
+
+    &__progress{
+        height: 2px;
+        width: 15%;
+        background-color: $color-gray-light-medium;
+        @include flex($justify-content:flex-start);
+
+        &-bar{
+            width: (24/304)*100%;
+            background-color: $color-gray-dark;
+            height: 100%;
+        }
+    }
+
+    &__button{
+        margin-top:20px;
+        @include button($border:1px solid $color-gray-light-medium,$padding:5px 15px,$border-radius:20px);
+        font-weight: bold;
+
+        &:hover{
+            border: 1px solid $color-gray-dark-light;
+        }
+    }
+}

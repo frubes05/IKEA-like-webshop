@@ -1,0 +1,15 @@
+.aside{
+    grid-column: span 3;
+
+    @include mobile(){
+        grid-column: span 12;
+    }
+
+    @include tablet(){
+        grid-column: span 12;
+    }
+
+    @include mini-desktop(){
+        grid-column: span 4;
+    }
+}

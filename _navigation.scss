@@ -1,0 +1,211 @@
+.navigation {
+    @include grid($grid-template-columns:repeat(18,1fr));
+    justify-content: space-between;
+    padding: 30px 0;
+    flex-grow: 1;
+
+    @include container-padding-both();
+
+    &--menu{
+        @include flex();
+        width: 100%;
+    }
+
+    
+
+    &__primary {
+        grid-column-start: 3;
+        grid-column-end: 9;
+        @include flex($align-items:center,$gap:20px);
+        flex-grow: 1;
+
+        a {
+            color: $color-gray-dark;
+            font-weight: bold;
+        }
+
+        &-link {
+            &:hover {
+                text-decoration: underline;
+            }
+        }
+
+        
+
+        @include mobile(){
+            grid-row-start: 1;
+            grid-column: 1/4;
+        }
+
+        @include tablet() {
+            grid-column: 1/3;
+            grid-row-start: 2;
+        }
+
+        @include mini-desktop() {
+            grid-column: 1/3;
+            grid-row-start: 2;
+        }
+
+        &--logo{
+            grid-column-start: 2;
+
+            @include mobile(){
+                grid-column-start: 1;
+            }
+
+            @include tablet(){
+                grid-column-start: 1;
+            }
+
+            @include mini-desktop(){
+                grid-column-start: 3;
+            }
+        }
+    }
+
+    &__secondary {
+        grid-column: span 2;
+        grid-column-start: 16;
+        @include flex($align-items:center,$justify-content:flex-end,$gap:20px);
+        width: auto;
+
+        @include mobile() {
+            grid-column: 16/19;
+            grid-row-start:1;
+        }
+
+        @include tablet(){
+            grid-row-start: 2;
+        }
+
+        @include mini-desktop(){
+            grid-column: 14/16;
+            grid-row-start: 2;
+        }
+    }
+
+    &__thirdly {
+        grid-column-start: 10;
+        grid-column-end: 15;
+        grid-row-start: 1;
+
+        @include mobile() {
+            padding-top: 20px;
+            grid-row-start: 2;
+            grid-column: span 37;
+        }
+
+        @include tablet() {
+            grid-row-start: 2;
+            grid-column-start: 5;
+            grid-column-end: 15;
+        }
+
+        @include mini-desktop() {
+            grid-row-start: 2;
+            grid-column-start: 4;
+            grid-column-end: 12;
+        }
+
+        &-link {
+            position: relative;
+        }
+    }
+
+    &__primary-item {
+        &:last-of-type {
+            flex-grow: 1;
+            position: relative;
+
+            &--input {
+                @include mobile() {
+                    display: block;
+                }
+            }
+        }
+
+        &--mobile {
+            @include mobile() {
+                display: none;
+            }
+
+            @include tablet() {
+                display: none;
+            }
+
+            @include mini-desktop() {
+                display: none;
+            }
+        }
+    }
+
+    &__secondary-item{
+
+        &--cart{
+            position: relative;
+        }
+
+        &--num{
+            position: absolute;
+            background-color: #1859a3;
+            padding: 4px 4px;
+            border-radius: 50%;
+            left:10px;
+            bottom:8px;
+            color:white;
+            font-weight: bold;
+            font-size: 12px;
+        }
+    }
+
+    &__input {
+        width: 100%;
+        height: 40px;
+        @include button($border-radius:30px,$bg:$color-gray-light,$padding:10px 15px 10px 40px);
+        cursor: auto;
+
+        &:focus {
+            outline: none;
+        }
+
+        &--magnifier {
+            position: absolute;
+            left: 10px;
+            top: 0px;
+            height: 1.1rem;
+        }
+
+        &--camera {
+            position: absolute;
+            right: 10px;
+            top: 0px;
+            height: 1.3rem;
+        }
+    }
+
+   
+    @include mobile() {
+        grid-template-columns: repeat(4, 1fr);
+    }
+
+    @include tablet() {
+        @include container-padding-both();
+    }
+
+    @include mini-desktop() {
+        @include container-padding-both();
+    }
+
+    &--delivery{
+
+        @include tablet(){
+            padding: 40px 20px 0 20px;
+        }
+
+        @include mobile(){
+            padding: 40px 20px 0 20px;
+        }
+    }
+
+}

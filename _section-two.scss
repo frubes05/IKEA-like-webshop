@@ -1,0 +1,24 @@
+.section-two{
+    grid-column: span 8;
+
+    &__item{
+        padding: 20px 20px;
+    }
+
+    &__list{
+        @include flex();
+       // overflow-x: scroll;
+
+        &--instructions{
+            grid-column: 1/4;
+        }
+    }
+
+    @include mobile(){
+        grid-column: span 12;
+    }
+
+    &__link{
+        display: block;
+    }
+}

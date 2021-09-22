@@ -1,0 +1,34 @@
+.main{
+    padding:3rem 0.5rem;
+
+    &--delivery{
+        @include flex($gap:50px);
+
+        @include mini-desktop(){
+            @include grid($grid-template-columns:repeat(12,1fr),$grid-gap:20px);
+        }
+
+        @include tablet(){
+            @include grid($grid-template-columns:repeat(12,1fr),$grid-gap:20px);
+        }
+
+        @include mobile(){
+            @include grid($grid-template-columns:repeat(12,1fr),$grid-gap:20px);
+        }
+    }
+
+
+    @include grid($grid-template-columns:repeat(12,1fr));
+
+    @include tablet(){
+        @include container-padding-both();
+    }
+
+    @include mini-desktop(){
+        @include container-padding-both();
+    }
+
+    @include container-padding-both();
+}
+
+
