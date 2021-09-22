@@ -1,0 +1,17 @@
+$grid-breakpoint-s-max: 688px;
+$grid-breakpoint-m-min: 689px;
+$grid-breakpoint-m-max: 992px;
+$grid-breakpoint-l-min: 993px;
+
+$grid: (
+  "phone": (
+    "max": $grid-breakpoint-s-max,
+  ),
+  "tablet": (
+    "min": $grid-breakpoint-m-min,
+    "max": $grid-breakpoint-m-max,
+  ),
+  "desktop": (
+    "min": $grid-breakpoint-l-min,
+  ),
+);

@@ -1,0 +1,68 @@
+@mixin flex($display: flex, $flex-direction: row, $justify-content: normal, $align-items: normal, $gap: 0px) {
+  display: $display;
+  flex-direction: $flex-direction;
+  justify-content: $justify-content;
+  align-items: $align-items;
+  gap: $gap;
+}
+
+@mixin grid($display: grid, $grid-template-columns: repeat(12, 1fr), $grid-gap: 0px) {
+  display: $display;
+  grid-template-columns: $grid-template-columns;
+  grid-gap: $grid-gap;
+}
+
+@mixin container-mobile() {
+  padding: 0 10px;
+  margin: 0 auto;
+}
+
+@mixin container-tablet() {
+  width: 700px;
+  margin: 0 auto;
+}
+
+@mixin mobile() {
+  @media (max-width: 688px) {
+    @content;
+  }
+}
+
+@mixin tablet() {
+  @media (min-width: 688px) and (max-width: 899px) {
+    @content;
+  }
+}
+
+@mixin mini-desktop() {
+  @media (min-width: 899px) and (max-width: 1200px) {
+    @content;
+  }
+}
+
+@mixin container-padding() {
+  padding: 0 20px;
+
+  @content;
+}
+
+@mixin container-padding-both() {
+  padding: 40px 20px;
+}
+
+@mixin button($color: black, $bg: inherit, $padding: 0, $border-radius: none, $border: none) {
+  color: $color;
+  background-color: $bg;
+  padding: $padding;
+  border: $border;
+  border-radius: $border-radius;
+  cursor: pointer;
+}
+
+@mixin link($color: black, $bg: inherit, $padding: 0, $border-radius: none, $border: none) {
+  color: $color;
+  background-color: $bg;
+  padding: $padding;
+  border: $border;
+  border-radius: $border-radius;
+}
