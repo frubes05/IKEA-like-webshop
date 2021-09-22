@@ -1,0 +1,29 @@
+@import './base/reset';
+@import './base/global';
+@import './base/variables';
+@import './base/grid';
+@import './base/mixins';
+@import './base/container';
+
+
+@import './components/overlay';
+@import './components/main';
+@import './components/sections';
+@import './components/section-one';
+@import './components/section-two';
+@import './components/section-three';
+@import './components/section-four';
+@import './components/aside';
+@import './components/benefits';
+@import './components/navigation';
+@import './components/breadcrumbs';
+@import './components/products';
+@import './components/show-more';
+@import './components/footer';
+
+@import './components/glider';
+@import './components/sidebar';
+@import './components/aside-bar';
+@import './components/cart-section';
+@import './components/burger';
+@import './components/instructions';
