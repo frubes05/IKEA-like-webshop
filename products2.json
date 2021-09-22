@@ -1,0 +1,1107 @@
+{
+  "usergroup": "[SIK_NULL_TEST_20210825:B, SIK_PRODUCT_FRAGMENT_DATA_V5:B, SIK_UNIVERSAL_SERP_VETA_ANSWERS:B]",
+  "moreProducts": {
+    "productWindow": [
+      {
+        "itemNo": "60500938",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "49",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "mainImageAlt": "CTENANTHE Lončanica, 14 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "CTENANTHE",
+        "typeName": "Lončanica",
+        "itemMeasureReferenceText": "14 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/ctenanthe-loncanica__1056744_pe848521_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/ctenanthe-loncanica-60500938/",
+        "id": "60500938",
+        "itemNoGlobal": "60500938",
+        "metadata": "Newest",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [
+          {
+            "name": "zelena",
+            "id": "10033",
+            "hex": "3b7d22"
+          }
+        ],
+        "priceNumeral": 49.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "50501033",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "69",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "mainImageAlt": "OPUNTIA RUBESCENS Lončanica, Opuncija, 12 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "OPUNTIA RUBESCENS",
+        "typeName": "Lončanica",
+        "itemMeasureReferenceText": "12 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/opuntia-rubescens-loncanica-opuncija__1043067_pe841676_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/opuntia-rubescens-loncanica-opuncija-50501033/",
+        "id": "50501033",
+        "itemNoGlobal": "50501033",
+        "metadata": "Newest",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [
+          {
+            "name": "zelena",
+            "id": "10033",
+            "hex": "3b7d22"
+          }
+        ],
+        "priceNumeral": 69.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "50500590",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "69",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/ananas-loncanica-ananas__0899444_pe727655_s5.jpg",
+        "mainImageAlt": "ANANAS Lončanica, ananas, 12 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "ANANAS",
+        "typeName": "Lončanica",
+        "itemMeasureReferenceText": "12 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/ananas-loncanica-ananas__0828165_pe776520_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/ananas-loncanica-ananas-50500590/",
+        "id": "50500590",
+        "itemNoGlobal": "50500590",
+        "metadata": "Newest",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [],
+        "priceNumeral": 69.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "40501038",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "79",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "mainImageAlt": "EUCOMIS LEIA Lončanica, Ananas ljiljan, 17 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "EUCOMIS LEIA",
+        "typeName": "Lončanica",
+        "itemMeasureReferenceText": "17 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/eucomis-leia-loncanica-ananas-ljiljan__1056547_pe848375_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/eucomis-leia-loncanica-ananas-ljiljan-40501038/",
+        "id": "40501038",
+        "itemNoGlobal": "40501038",
+        "metadata": "Newest",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [
+          {
+            "name": "zelena",
+            "id": "10033",
+            "hex": "3b7d22"
+          }
+        ],
+        "priceNumeral": 79.9,
+        "currencyCode": "HRK",
+        "ratingValue": 5.0,
+        "ratingCount": 1,
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "30500591",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "19",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/epipremnum-loncanica-davolji-brsljan__0900460_pe668029_s5.jpg",
+        "mainImageAlt": "EPIPREMNUM Lončanica, đavolji bršljan, 12 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "EPIPREMNUM",
+        "typeName": "Lončanica",
+        "itemMeasureReferenceText": "12 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/epipremnum-loncanica-davolji-brsljan__0573935_pe667974_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/epipremnum-loncanica-davolji-brsljan-30500591/",
+        "id": "30500591",
+        "itemNoGlobal": "30500591",
+        "metadata": "Newest",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [],
+        "priceNumeral": 19.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "10500592",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "14",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/kalanchoe-loncanica-tegla-kalanhoja-calandiva-razne-boje__0900303_pe668026_s5.jpg",
+        "mainImageAlt": "KALANCHOE Lončanica+tegla, Kalanhoja calandiva razne boje, 6 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "KALANCHOE",
+        "typeName": "Lončanica+tegla",
+        "itemMeasureReferenceText": "6 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/kalanchoe-loncanica-tegla-kalanhoja-calandiva-razne-boje__0828432_pe776592_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/kalanchoe-loncanica-tegla-kalanhoja-calandiva-razne-boje-10500592/",
+        "id": "10500592",
+        "itemNoGlobal": "10500592",
+        "metadata": "Newest",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [
+          {
+            "name": "zelena",
+            "id": "10033",
+            "hex": "3b7d22"
+          },
+          {
+            "name": "žuta",
+            "id": "10042",
+            "hex": "ffdb00"
+          },
+          {
+            "name": "lila",
+            "id": "10064",
+            "hex": "a96ecc"
+          },
+          {
+            "name": "narančasta",
+            "id": "10112",
+            "hex": "ff9a02"
+          },
+          {
+            "name": "roza",
+            "id": "10119",
+            "hex": "ffb8c3"
+          },
+          {
+            "name": "crvena",
+            "id": "10124",
+            "hex": "f00f00"
+          },
+          {
+            "name": "bijela",
+            "id": "10156",
+            "hex": "ffffff"
+          }
+        ],
+        "priceNumeral": 14.9,
+        "currencyCode": "HRK",
+        "ratingValue": 5.0,
+        "ratingCount": 1,
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "10500587",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "79",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "mainImageAlt": "RADERMACHERA Lončanica, Smaragdno drvo, 15 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "RADERMACHERA",
+        "typeName": "Lončanica",
+        "itemMeasureReferenceText": "15 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/radermachera-loncanica-smaragdno-drvo__0828433_pe776593_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/radermachera-loncanica-smaragdno-drvo-10500587/",
+        "id": "10500587",
+        "itemNoGlobal": "10500587",
+        "metadata": "Newest",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [],
+        "priceNumeral": 79.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "30358781",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "9",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/kupong-budilica-zelena__1036060_pe838287_s5.jpg",
+        "mainImageAlt": "KUPONG Budilica, zelena, 4x6 cm",
+        "breathTaking": true,
+        "discount": "",
+        "name": "KUPONG",
+        "typeName": "Budilica",
+        "itemMeasureReferenceText": "4x6 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/kupong-budilica-zelena__0997354_pe822655_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/kupong-budilica-zelena-30358781/",
+        "id": "30358781",
+        "itemNoGlobal": "30358781",
+        "metadata": "Newest",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [
+          {
+            "name": "crna",
+            "id": "10139",
+            "hex": "000000"
+          }
+        ],
+        "priceNumeral": 9.9,
+        "currencyCode": "HRK",
+        "ratingValue": 5.0,
+        "ratingCount": 2,
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "30499516",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "49",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/pepprig-lopatica-za-smece-metla__0832556_pe777712_s5.jpg",
+        "mainImageAlt": "PEPPRIG Lopatica za smeće/metla",
+        "breathTaking": false,
+        "discount": "",
+        "name": "PEPPRIG",
+        "typeName": "Lopatica za smeće/metla",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/pepprig-lopatica-za-smece-metla__0822827_pe775698_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/pepprig-lopatica-za-smece-metla-30499516/",
+        "id": "30499516",
+        "itemNoGlobal": "30499516",
+        "metadata": "Newest",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [],
+        "priceNumeral": 49.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "20436713",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "149",
+          "separator": "",
+          "decimals": "",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/baggebo-biblioteka-bijela__0981553_pe815390_s5.jpg",
+        "mainImageAlt": "BAGGEBO Biblioteka, bijela, 50x25x160 cm",
+        "breathTaking": true,
+        "discount": "",
+        "name": "BAGGEBO",
+        "typeName": "Biblioteka",
+        "itemMeasureReferenceText": "50x25x160 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/baggebo-biblioteka-bijela__0981552_pe815388_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/baggebo-biblioteka-bijela-20436713/",
+        "id": "20436713",
+        "itemNoGlobal": "20436713",
+        "metadata": "Newest",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [
+          {
+            "name": "bijela",
+            "id": "10156",
+            "hex": "ffffff"
+          }
+        ],
+        "priceNumeral": 149.0,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "90499518",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "6",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "priceUnit": "3 kom",
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/pepprig-spuzvica-za-ribanje__0888541_pe782086_s5.jpg",
+        "mainImageAlt": "PEPPRIG Spužvica za ribanje",
+        "breathTaking": true,
+        "discount": "",
+        "name": "PEPPRIG",
+        "typeName": "Spužvica za ribanje",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/pepprig-spuzvica-za-ribanje__0820406_pe775026_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/pepprig-spuzvica-za-ribanje-90499518/",
+        "id": "90499518",
+        "itemNoGlobal": "90499518",
+        "metadata": "Newest",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [],
+        "priceNumeral": 6.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "60498110",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "7",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/sekiner-kuka-za-vrata-bijela__1014283_pe829573_s5.jpg",
+        "mainImageAlt": "SEKINER Kuka za vrata, bijela",
+        "breathTaking": false,
+        "discount": "",
+        "name": "SEKINER",
+        "typeName": "Kuka za vrata",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/sekiner-kuka-za-vrata-bijela__0992055_pe819778_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/sekiner-kuka-za-vrata-bijela-60498110/",
+        "id": "60498110",
+        "itemNoGlobal": "60498110",
+        "metadata": "Newest",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [],
+        "priceNumeral": 7.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "00500106",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "19",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/klampenborg-otirac-za-unutra-plava__0972877_pe811792_s5.jpg",
+        "mainImageAlt": "KLAMPENBORG Otirač, za unutra, plava, 50x80 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "KLAMPENBORG",
+        "typeName": "Otirač, za unutra",
+        "itemMeasureReferenceText": "50x80 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/klampenborg-otirac-za-unutra-plava__0972876_pe811791_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/klampenborg-otirac-za-unutra-plava-00500106/",
+        "id": "00500106",
+        "itemNoGlobal": "00500106",
+        "metadata": "Newest",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 1,
+          "variants": [
+            {
+              "id": "00500111",
+              "pipUrl": "https://www.ikea.com/hr/hr/p/klampenborg-otirac-za-unutra-smeda-00500111/",
+              "imageUrl": "https://www.ikea.com/hr/hr/images/products/klampenborg-otirac-za-unutra-smeda__0972870_pe811785_s5.jpg",
+              "imageAlt": "KLAMPENBORG Otirač, za unutra, smeđa, 35x55 cm",
+              "quickFacts": [],
+              "availabilityInformation": {
+                "type": "NONE"
+              }
+            }
+          ]
+        },
+        "colors": [
+          {
+            "name": "plava",
+            "id": "10007",
+            "hex": "0058a3"
+          }
+        ],
+        "priceNumeral": 19.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "60497224",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "29",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/dagklar-staklenka-s-umetkom-prozirno-staklo-nehrdajuci-celik__1011515_pe828499_s5.jpg",
+        "mainImageAlt": "DAGKLAR Staklenka s umetkom, prozirno staklo/nehrđajući čelik, 0.4 l",
+        "breathTaking": false,
+        "discount": "",
+        "name": "DAGKLAR",
+        "typeName": "Staklenka s umetkom",
+        "itemMeasureReferenceText": "0.4 l",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/dagklar-staklenka-s-umetkom-prozirno-staklo-nehrdajuci-celik__1011513_pe828497_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/dagklar-staklenka-s-umetkom-prozirno-staklo-nehrdajuci-celik-60497224/",
+        "id": "60497224",
+        "itemNoGlobal": "60497224",
+        "metadata": "Newest",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [],
+        "priceNumeral": 29.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "00497972",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "39",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/barlast-led-stropna-zidna-lampa-bijela__0984287_pe816209_s5.jpg",
+        "mainImageAlt": "BARLAST LED stropna/zidna lampa, bijela, 25 cm",
+        "breathTaking": true,
+        "discount": "",
+        "name": "BARLAST",
+        "typeName": "LED stropna/zidna lampa",
+        "itemMeasureReferenceText": "25 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/barlast-led-stropna-zidna-lampa-bijela__0772861_pe756185_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/barlast-led-stropna-zidna-lampa-bijela-00497972/",
+        "id": "00497972",
+        "itemNoGlobal": "00497972",
+        "metadata": "Newest",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [],
+        "priceNumeral": 39.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "00497222",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "29",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/enkelsparig-boca-za-vodu-nehrdajuci-celik-bez__0985525_pe816662_s5.jpg",
+        "mainImageAlt": "ENKELSPÅRIG Boca za vodu, nehrđajući čelik/bež, 0.5 l",
+        "breathTaking": false,
+        "discount": "",
+        "name": "ENKELSPÅRIG",
+        "typeName": "Boca za vodu",
+        "itemMeasureReferenceText": "0.5 l",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/enkelsparig-boca-za-vodu-nehrdajuci-celik-bez__0985523_pe816659_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/enkelsparig-boca-za-vodu-nehrdajuci-celik-bez-00497222/",
+        "id": "00497222",
+        "itemNoGlobal": "00497222",
+        "metadata": "Newest",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [],
+        "priceNumeral": 29.9,
+        "currencyCode": "HRK",
+        "ratingValue": 4.3,
+        "ratingCount": 6,
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "80502998",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "269",
+          "separator": "",
+          "decimals": "",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/baggebo-element-sa-staklenim-vratima-metal-bijela__0981558_pe815395_s5.jpg",
+        "mainImageAlt": "BAGGEBO Element sa staklenim vratima, metal/bijela, 34x30x116 cm",
+        "breathTaking": true,
+        "discount": "",
+        "name": "BAGGEBO",
+        "typeName": "Element sa staklenim vratima",
+        "itemMeasureReferenceText": "34x30x116 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/baggebo-element-sa-staklenim-vratima-metal-bijela__0981557_pe815393_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/baggebo-element-sa-staklenim-vratima-metal-bijela-80502998/",
+        "id": "80502998",
+        "itemNoGlobal": "80502998",
+        "metadata": "Newest",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [
+          {
+            "name": "bijela",
+            "id": "10156",
+            "hex": "ffffff"
+          }
+        ],
+        "priceNumeral": 269.0,
+        "currencyCode": "HRK",
+        "ratingValue": 5.0,
+        "ratingCount": 1,
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "70503309",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "24",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/tagelsaev-zastita-za-madrac__0972971_pe811829_s5.jpg",
+        "mainImageAlt": "TAGELSÄV Zaštita za madrac, 90x200 cm",
+        "breathTaking": true,
+        "discount": "",
+        "name": "TAGELSÄV",
+        "typeName": "Zaštita za madrac",
+        "itemMeasureReferenceText": "90x200 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/tagelsaev-zastita-za-madrac__0972970_pe811830_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/tagelsaev-zastita-za-madrac-70503309/",
+        "id": "70503309",
+        "itemNoGlobal": "70503309",
+        "metadata": "Newest",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [
+          {
+            "name": "bijela",
+            "id": "10156",
+            "hex": "ffffff"
+          }
+        ],
+        "priceNumeral": 24.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "90489374",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "19",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/fullspaeckad-posluzavnik-bambus__0986677_pe817280_s5.jpg",
+        "mainImageAlt": "FULLSPÄCKAD Poslužavnik, bambus",
+        "breathTaking": false,
+        "discount": "",
+        "name": "FULLSPÄCKAD",
+        "typeName": "Poslužavnik",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/fullspaeckad-posluzavnik-bambus__0986674_pe817277_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/fullspaeckad-posluzavnik-bambus-90489374/",
+        "id": "90489374",
+        "itemNoGlobal": "90489374",
+        "metadata": "Newest",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [],
+        "priceNumeral": 19.9,
+        "currencyCode": "HRK",
+        "ratingValue": 5.0,
+        "ratingCount": 1,
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "60493424",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "29",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/mala-tuba-za-likovno-djelo-visebojno__0958601_pe805371_s5.jpg",
+        "mainImageAlt": "MÅLA Tuba za likovno djelo, višebojno",
+        "breathTaking": false,
+        "discount": "",
+        "name": "MÅLA",
+        "typeName": "Tuba za likovno djelo",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/mala-tuba-za-likovno-djelo-visebojno__0958086_pe805241_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/mala-tuba-za-likovno-djelo-visebojno-60493424/",
+        "id": "60493424",
+        "itemNoGlobal": "60493424",
+        "metadata": "Newest",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [
+          {
+            "name": "višebojno",
+            "id": "10583"
+          }
+        ],
+        "priceNumeral": 29.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "80497850",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "7",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/upplivad-zlica-bukva__0993551_pe822265_s5.jpg",
+        "mainImageAlt": "UPPLIVAD Žlica, bukva",
+        "breathTaking": false,
+        "discount": "",
+        "name": "UPPLIVAD",
+        "typeName": "Žlica",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/upplivad-zlica-bukva__0986791_pe817355_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/upplivad-zlica-bukva-80497850/",
+        "id": "80497850",
+        "itemNoGlobal": "80497850",
+        "metadata": "Newest",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [],
+        "priceNumeral": 7.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "80478192",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "9",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/faergklar-salica-mat-svijetloroza__0986761_pe817324_s5.jpg",
+        "mainImageAlt": "FÄRGKLAR Šalica, mat svijetloroza, 37 cl",
+        "breathTaking": false,
+        "discount": "",
+        "name": "FÄRGKLAR",
+        "typeName": "Šalica",
+        "itemMeasureReferenceText": "37 cl",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/faergklar-salica-mat-svijetloroza__0986760_pe817323_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/faergklar-salica-mat-svijetloroza-80478192/",
+        "id": "80478192",
+        "itemNoGlobal": "80478192",
+        "metadata": "Newest",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 1,
+          "variants": [
+            {
+              "id": "40478189",
+              "pipUrl": "https://www.ikea.com/hr/hr/p/faergklar-salica-mat-zelena-40478189/",
+              "imageUrl": "https://www.ikea.com/hr/hr/images/products/faergklar-salica-mat-zelena__0986755_pe817319_s5.jpg",
+              "imageAlt": "FÄRGKLAR Šalica, mat zelena, 37 cl",
+              "quickFacts": [],
+              "availabilityInformation": {
+                "type": "NONE"
+              }
+            }
+          ]
+        },
+        "colors": [
+          {
+            "name": "roza",
+            "id": "10119",
+            "hex": "ffb8c3"
+          }
+        ],
+        "priceNumeral": 9.9,
+        "currencyCode": "HRK",
+        "ratingValue": 5.0,
+        "ratingCount": 1,
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "70478140",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "39",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "priceUnit": "4 kom",
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/faergklar-zdjela-mat-svijetloroza__0985874_pe816854_s5.jpg",
+        "mainImageAlt": "FÄRGKLAR Zdjela, mat svijetloroza, 16 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "FÄRGKLAR",
+        "typeName": "Zdjela",
+        "itemMeasureReferenceText": "16 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/faergklar-zdjela-mat-svijetloroza__0985873_pe816853_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/faergklar-zdjela-mat-svijetloroza-70478140/",
+        "id": "70478140",
+        "itemNoGlobal": "70478140",
+        "metadata": "Newest",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 3,
+          "variants": [
+            {
+              "id": "10477191",
+              "pipUrl": "https://www.ikea.com/hr/hr/p/faergklar-zdjela-mat-svijetlotirkizna-10477191/",
+              "imageUrl": "https://www.ikea.com/hr/hr/images/products/faergklar-zdjela-mat-svijetlotirkizna__0958943_pe805525_s5.jpg",
+              "imageAlt": "FÄRGKLAR Zdjela, mat svijetlotirkizna, 16 cm",
+              "quickFacts": [],
+              "availabilityInformation": {
+                "type": "NONE"
+              }
+            },
+            {
+              "id": "90477192",
+              "pipUrl": "https://www.ikea.com/hr/hr/p/faergklar-zdjela-sjajno-tamnotirkizna-90477192/",
+              "imageUrl": "https://www.ikea.com/hr/hr/images/products/faergklar-zdjela-sjajno-tamnotirkizna__0958937_pe805521_s5.jpg",
+              "imageAlt": "FÄRGKLAR Zdjela, sjajno tamnotirkizna, 16 cm",
+              "quickFacts": [],
+              "availabilityInformation": {
+                "type": "NONE"
+              }
+            },
+            {
+              "id": "30478137",
+              "pipUrl": "https://www.ikea.com/hr/hr/p/faergklar-zdjela-mat-zelena-30478137/",
+              "imageUrl": "https://www.ikea.com/hr/hr/images/products/faergklar-zdjela-mat-zelena__0985868_pe816849_s5.jpg",
+              "imageAlt": "FÄRGKLAR Zdjela, mat zelena, 16 cm",
+              "quickFacts": [],
+              "availabilityInformation": {
+                "type": "NONE"
+              }
+            }
+          ]
+        },
+        "colors": [],
+        "priceNumeral": 39.9,
+        "currencyCode": "HRK",
+        "ratingValue": 5.0,
+        "ratingCount": 2,
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "00499532",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "59",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/pepprig-kanta-s-poklopcem-3-kom__0967669_pe810233_s5.jpg",
+        "mainImageAlt": "PEPPRIG Kanta s poklopcem, 3 kom",
+        "breathTaking": false,
+        "discount": "",
+        "name": "PEPPRIG",
+        "typeName": "Kanta s poklopcem, 3 kom",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/pepprig-kanta-s-poklopcem-3-kom__0978565_pe814162_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/pepprig-kanta-s-poklopcem-3-kom-00499532/",
+        "id": "00499532",
+        "itemNoGlobal": "00499532",
+        "metadata": "Newest",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [],
+        "priceNumeral": 59.9,
+        "currencyCode": "HRK",
+        "ratingValue": 5.0,
+        "ratingCount": 1,
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      }
+    ]
+  }
+}

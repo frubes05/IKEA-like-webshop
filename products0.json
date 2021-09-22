@@ -1,0 +1,1021 @@
+{
+  "usergroup": "[SIK_NULL_TEST_20210825:B, SIK_PRODUCT_FRAGMENT_DATA_V5:B, SIK_UNIVERSAL_SERP_VETA_ANSWERS:B]",
+  "moreProducts": {
+    "productWindow": [
+      {
+        "itemNo": "40499200",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "229",
+          "separator": "",
+          "decimals": "",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "priceUnit": "2 kom",
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/karismatisk-prethod-odrezana-tkanina-razni-uzorci-roza__1027203_ph179406_s5.jpg",
+        "mainImageAlt": "KARISMATISK Prethod odrezana tkanina, razni uzorci roza, 150x300 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "KARISMATISK",
+        "typeName": "Prethod odrezana tkanina",
+        "itemMeasureReferenceText": "150x300 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/karismatisk-prethod-odrezana-tkanina-razni-uzorci-roza__1007221_pe826648_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/karismatisk-prethod-odrezana-tkanina-razni-uzorci-roza-40499200/",
+        "id": "40499200",
+        "itemNoGlobal": "40499200",
+        "metadata": "Newest",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [],
+        "priceNumeral": 229.0,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "40499078",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "99",
+          "separator": "",
+          "decimals": "",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "mainImageAlt": "KARISMATISK Futrola za odlaganje, zlatna, 69x51x19 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "KARISMATISK",
+        "typeName": "Futrola za odlaganje",
+        "itemMeasureReferenceText": "69x51x19 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/karismatisk-futrola-za-odlaganje-zlatna__1007232_pe826659_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/karismatisk-futrola-za-odlaganje-zlatna-40499078/",
+        "id": "40499078",
+        "itemNoGlobal": "40499078",
+        "metadata": "Newest",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [
+          {
+            "name": "žuta",
+            "id": "10042",
+            "hex": "ffdb00"
+          }
+        ],
+        "priceNumeral": 99.0,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "00460011",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "99",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/uppdatera-rupicasta-ploca-organizator-ladice-antracit__0975700_pe812846_s5.jpg",
+        "mainImageAlt": "UPPDATERA Rupičasta ploča, organizator ladice, antracit, 80 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "UPPDATERA",
+        "typeName": "Rupičasta ploča, organizator ladice",
+        "itemMeasureReferenceText": "80 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/uppdatera-rupicasta-ploca-organizator-ladice-antracit__0973098_pe811934_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/uppdatera-rupicasta-ploca-organizator-ladice-antracit-00460011/",
+        "id": "00460011",
+        "itemNoGlobal": "00460011",
+        "metadata": "Newest",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [],
+        "priceNumeral": 99.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "80433207",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "29",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/uppdatera-drzac-nozeva-antracit__0981344_pe815341_s5.jpg",
+        "mainImageAlt": "UPPDATERA Držač noževa, antracit, 20x50 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "UPPDATERA",
+        "typeName": "Držač noževa",
+        "itemMeasureReferenceText": "20x50 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/uppdatera-drzac-nozeva-antracit__0968737_pe810537_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/uppdatera-drzac-nozeva-antracit-80433207/",
+        "id": "80433207",
+        "itemNoGlobal": "80433207",
+        "metadata": "Newest",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [],
+        "priceNumeral": 29.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "70499029",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "199",
+          "separator": "",
+          "decimals": "",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/karismatisk-vaza-plava__1027341_ph179350_s5.jpg",
+        "mainImageAlt": "KARISMATISK Vaza, plava, 23 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "KARISMATISK",
+        "typeName": "Vaza",
+        "itemMeasureReferenceText": "23 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/karismatisk-vaza-plava__1007234_pe826662_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/karismatisk-vaza-plava-70499029/",
+        "id": "70499029",
+        "itemNoGlobal": "70499029",
+        "metadata": "Newest",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [
+          {
+            "name": "plava",
+            "id": "10007",
+            "hex": "0058a3"
+          }
+        ],
+        "priceNumeral": 199.0,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "70488846",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "29",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/uppdatera-podesiv-nadogradni-umetak-bijela__0993648_pe820639_s5.jpg",
+        "mainImageAlt": "UPPDATERA Podesiv nadogradni umetak, bijela, 25x50 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "UPPDATERA",
+        "typeName": "Podesiv nadogradni umetak",
+        "itemMeasureReferenceText": "25x50 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/uppdatera-podesiv-nadogradni-umetak-bijela__0968755_pe810551_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/uppdatera-podesiv-nadogradni-umetak-bijela-70488846/",
+        "id": "70488846",
+        "itemNoGlobal": "70488846",
+        "metadata": "Newest",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [],
+        "priceNumeral": 29.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "70459976",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "79",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/uppdatera-umetak-za-kuhinjski-pribor-svijetli-bambus__0993658_pe820647_s5.jpg",
+        "mainImageAlt": "UPPDATERA Umetak za kuhinjski pribor, svijetli bambus, 20x50 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "UPPDATERA",
+        "typeName": "Umetak za kuhinjski pribor",
+        "itemMeasureReferenceText": "20x50 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/uppdatera-umetak-za-kuhinjski-pribor-svijetli-bambus__0968844_pe810566_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/uppdatera-umetak-za-kuhinjski-pribor-svijetli-bambus-70459976/",
+        "id": "70459976",
+        "itemNoGlobal": "70459976",
+        "metadata": "Newest",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [],
+        "priceNumeral": 79.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "50499087",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "119",
+          "separator": "",
+          "decimals": "",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/karismatisk-kutija-2-kom-plava-roza__1027224_ph179407_s5.jpg",
+        "mainImageAlt": "KARISMATISK Kutija, 2 kom, plava/roza",
+        "breathTaking": false,
+        "discount": "",
+        "name": "KARISMATISK",
+        "typeName": "Kutija, 2 kom",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/karismatisk-kutija-2-kom-plava-roza__1007201_pe826628_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/karismatisk-kutija-2-kom-plava-roza-50499087/",
+        "id": "50499087",
+        "itemNoGlobal": "50499087",
+        "metadata": "Newest",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [
+          {
+            "name": "plava",
+            "id": "10007",
+            "hex": "0058a3"
+          },
+          {
+            "name": "roza",
+            "id": "10119",
+            "hex": "ffb8c3"
+          }
+        ],
+        "priceNumeral": 119.0,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "50460018",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "29",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/uppdatera-umetak-za-kuhinjski-pribor-bijela__0981344_pe815341_s5.jpg",
+        "mainImageAlt": "UPPDATERA Umetak za kuhinjski pribor, bijela, 20x50 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "UPPDATERA",
+        "typeName": "Umetak za kuhinjski pribor",
+        "itemMeasureReferenceText": "20x50 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/uppdatera-umetak-za-kuhinjski-pribor-bijela__0969104_pe810697_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/uppdatera-umetak-za-kuhinjski-pribor-bijela-50460018/",
+        "id": "50460018",
+        "itemNoGlobal": "50460018",
+        "metadata": "Newest",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [],
+        "priceNumeral": 29.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "40499035",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "149",
+          "separator": "",
+          "decimals": "",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/karismatisk-vaza-2-kom-roza__1027307_ph179427_s5.jpg",
+        "mainImageAlt": "KARISMATISK Vaza, 2 kom, roza",
+        "breathTaking": false,
+        "discount": "",
+        "name": "KARISMATISK",
+        "typeName": "Vaza, 2 kom",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/karismatisk-vaza-2-kom-roza__1007235_pe826624_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/karismatisk-vaza-2-kom-roza-40499035/",
+        "id": "40499035",
+        "itemNoGlobal": "40499035",
+        "metadata": "Newest",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [
+          {
+            "name": "roza",
+            "id": "10119",
+            "hex": "ffb8c3"
+          }
+        ],
+        "priceNumeral": 149.0,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "40459973",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "99",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/uppdatera-umetak-za-pribor-za-jelo-svijetli-bambus__0993659_pe820648_s5.jpg",
+        "mainImageAlt": "UPPDATERA Umetak za pribor za jelo, svijetli bambus, 32x50 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "UPPDATERA",
+        "typeName": "Umetak za pribor za jelo",
+        "itemMeasureReferenceText": "32x50 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/uppdatera-umetak-za-pribor-za-jelo-svijetli-bambus__0968831_pe810559_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/uppdatera-umetak-za-pribor-za-jelo-svijetli-bambus-40459973/",
+        "id": "40459973",
+        "itemNoGlobal": "40459973",
+        "metadata": "Newest",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [],
+        "priceNumeral": 99.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "40433105",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "29",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/uppdatera-stalak-za-pribor-za-jelo-antracit__0981332_pe815340_s5.jpg",
+        "mainImageAlt": "UPPDATERA Stalak za pribor za jelo, antracit, 12x12 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "UPPDATERA",
+        "typeName": "Stalak za pribor za jelo",
+        "itemMeasureReferenceText": "12x12 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/uppdatera-stalak-za-pribor-za-jelo-antracit__0972400_pe811937_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/uppdatera-stalak-za-pribor-za-jelo-antracit-40433105/",
+        "id": "40433105",
+        "itemNoGlobal": "40433105",
+        "metadata": "Newest",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [],
+        "priceNumeral": 29.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "30499026",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "129",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/karismatisk-sjenilo-lampe-zlatna__1027203_ph179406_s5.jpg",
+        "mainImageAlt": "KARISMATISK Sjenilo lampe, zlatna",
+        "breathTaking": false,
+        "discount": "",
+        "name": "KARISMATISK",
+        "typeName": "Sjenilo lampe",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/karismatisk-sjenilo-lampe-zlatna__1007217_pe826644_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/karismatisk-sjenilo-lampe-zlatna-30499026/",
+        "id": "30499026",
+        "itemNoGlobal": "30499026",
+        "metadata": "Newest",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [],
+        "priceNumeral": 129.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "30459978",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "24",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/uppdatera-stalak-za-zacine-antracit__0993650_pe820641_s5.jpg",
+        "mainImageAlt": "UPPDATERA Stalak za začine, antracit, 20x50 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "UPPDATERA",
+        "typeName": "Stalak za začine",
+        "itemMeasureReferenceText": "20x50 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/uppdatera-stalak-za-zacine-antracit__0969100_pe810695_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/uppdatera-stalak-za-zacine-antracit-30459978/",
+        "id": "30459978",
+        "itemNoGlobal": "30459978",
+        "metadata": "Newest",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [],
+        "priceNumeral": 24.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "10460015",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "24",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "mainImageAlt": "UPPDATERA Umetak za kuhinjski pribor, bijela, 20x31 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "UPPDATERA",
+        "typeName": "Umetak za kuhinjski pribor",
+        "itemMeasureReferenceText": "20x31 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/uppdatera-umetak-za-kuhinjski-pribor-bijela__0969074_pe810688_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/uppdatera-umetak-za-kuhinjski-pribor-bijela-10460015/",
+        "id": "10460015",
+        "itemNoGlobal": "10460015",
+        "metadata": "Newest",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [],
+        "priceNumeral": 24.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "00488326",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "59",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/uppdatera-umetak-za-kuhinjski-pribor-svijetli-bambus__0993658_pe820647_s5.jpg",
+        "mainImageAlt": "UPPDATERA Umetak za kuhinjski pribor, svijetli bambus, 10x50 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "UPPDATERA",
+        "typeName": "Umetak za kuhinjski pribor",
+        "itemMeasureReferenceText": "10x50 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/uppdatera-umetak-za-kuhinjski-pribor-svijetli-bambus__0968841_pe810565_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/uppdatera-umetak-za-kuhinjski-pribor-svijetli-bambus-00488326/",
+        "id": "00488326",
+        "itemNoGlobal": "00488326",
+        "metadata": "Newest",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [],
+        "priceNumeral": 59.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "40497437",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "32",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "priceUnit": "0.45 kg",
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/loerdagsgodis-mjesavina-zele-bombona__1024609_pe833599_s5.jpg",
+        "mainImageAlt": "LÖRDAGSGODIS Mješavina žele bombona, 450 g",
+        "breathTaking": false,
+        "discount": "",
+        "name": "LÖRDAGSGODIS",
+        "typeName": "Mješavina žele bombona",
+        "itemMeasureReferenceText": "450 g",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/loerdagsgodis-mjesavina-zele-bombona__1023676_pe833214_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/loerdagsgodis-mjesavina-zele-bombona-40497437/",
+        "id": "40497437",
+        "itemNoGlobal": "40497437",
+        "metadata": "Newest",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [],
+        "priceNumeral": 32.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "20497438",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "32",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "priceUnit": "0.45 kg",
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/loerdagsgodis-mjesavina-slatko-kiselih-zele-bomb__1024611_pe833600_s5.jpg",
+        "mainImageAlt": "LÖRDAGSGODIS Mješavina slatko-kiselih žele bomb, 450 g",
+        "breathTaking": false,
+        "discount": "",
+        "name": "LÖRDAGSGODIS",
+        "typeName": "Mješavina slatko-kiselih žele bomb",
+        "itemMeasureReferenceText": "450 g",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/loerdagsgodis-mjesavina-slatko-kiselih-zele-bomb__1023677_pe833215_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/loerdagsgodis-mjesavina-slatko-kiselih-zele-bomb-20497438/",
+        "id": "20497438",
+        "itemNoGlobal": "20497438",
+        "metadata": "Newest",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [],
+        "priceNumeral": 32.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "00514919",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "24",
+          "separator": ",",
+          "decimals": "40",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "priceUnit": "0.495 l",
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/dryck-rabarber-sirup-od-rabarbare__0963257_pe808416_s5.jpg",
+        "mainImageAlt": "DRYCK RABARBER Sirup od rabarbare, 495 ml",
+        "breathTaking": false,
+        "discount": "",
+        "name": "DRYCK RABARBER",
+        "typeName": "Sirup od rabarbare",
+        "itemMeasureReferenceText": "495 ml",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/dryck-rabarber-sirup-od-rabarbare__1023843_pe833304_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/dryck-rabarber-sirup-od-rabarbare-00514919/",
+        "id": "00514919",
+        "itemNoGlobal": "00514919",
+        "metadata": "Newest",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [],
+        "priceNumeral": 24.4,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "20497527",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "9",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "priceUnit": "30 kom",
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/hoestkvaell-salveta-siva__1031163_ph179050_s5.jpg",
+        "mainImageAlt": "HÖSTKVÄLL Salveta, siva, 33x33 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "HÖSTKVÄLL",
+        "typeName": "Salveta",
+        "itemMeasureReferenceText": "33x33 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/hoestkvaell-salveta-siva__0980258_pe814861_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/hoestkvaell-salveta-siva-20497527/",
+        "id": "20497527",
+        "itemNoGlobal": "20497527",
+        "metadata": "Newest",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [
+          {
+            "name": "siva",
+            "id": "10028",
+            "hex": "949494"
+          }
+        ],
+        "priceNumeral": 9.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "50497494",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "34",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "priceUnit": "2 kom",
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/hoestkvaell-kuhinjska-krpa-siva__1031179_ph179056_s5.jpg",
+        "mainImageAlt": "HÖSTKVÄLL Kuhinjska krpa, siva, 50x70 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "HÖSTKVÄLL",
+        "typeName": "Kuhinjska krpa",
+        "itemMeasureReferenceText": "50x70 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/hoestkvaell-kuhinjska-krpa-siva__0947771_pe798859_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/hoestkvaell-kuhinjska-krpa-siva-50497494/",
+        "id": "50497494",
+        "itemNoGlobal": "50497494",
+        "metadata": "Newest",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [
+          {
+            "name": "siva",
+            "id": "10028",
+            "hex": "949494"
+          }
+        ],
+        "priceNumeral": 34.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "30497541",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "39",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/hoestkvaell-ukrasna-bundeva-3-kom-siva__1031156_ph178978_s5.jpg",
+        "mainImageAlt": "HÖSTKVÄLL Ukrasna bundeva, 3 kom, siva",
+        "breathTaking": false,
+        "discount": "",
+        "name": "HÖSTKVÄLL",
+        "typeName": "Ukrasna bundeva, 3 kom",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/hoestkvaell-ukrasna-bundeva-3-kom-siva__0980405_pe814933_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/hoestkvaell-ukrasna-bundeva-3-kom-siva-30497541/",
+        "id": "30497541",
+        "itemNoGlobal": "30497541",
+        "metadata": "Newest",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [
+          {
+            "name": "siva",
+            "id": "10028",
+            "hex": "949494"
+          }
+        ],
+        "priceNumeral": 39.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "20497565",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "59",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/hoestkvaell-umjetni-buket-u-zatvorenom-na-otvorenom-prirodna-boja__1031986_ph178973_s5.jpg",
+        "mainImageAlt": "HÖSTKVÄLL Umjetni buket, u zatvorenom/na otvorenom/prirodna boja, 61 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "HÖSTKVÄLL",
+        "typeName": "Umjetni buket",
+        "itemMeasureReferenceText": "61 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/hoestkvaell-umjetni-buket-u-zatvorenom-na-otvorenom-prirodna-boja__0972905_pe811807_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/hoestkvaell-umjetni-buket-u-zatvorenom-na-otvorenom-prirodna-boja-20497565/",
+        "id": "20497565",
+        "itemNoGlobal": "20497565",
+        "metadata": "Newest",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [
+          {
+            "name": "bež",
+            "id": "10003",
+            "hex": "f4f3d7"
+          },
+          {
+            "name": "žuta",
+            "id": "10042",
+            "hex": "ffdb00"
+          },
+          {
+            "name": "crvena",
+            "id": "10124",
+            "hex": "f00f00"
+          }
+        ],
+        "priceNumeral": 59.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "10497410",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "59",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/hoestkvaell-otirac-prirodna-boja__1031157_ph178979_s5.jpg",
+        "mainImageAlt": "HÖSTKVÄLL Otirač, prirodna boja, 40x60 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "HÖSTKVÄLL",
+        "typeName": "Otirač",
+        "itemMeasureReferenceText": "40x60 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/hoestkvaell-otirac-prirodna-boja__0972911_pe811814_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/hoestkvaell-otirac-prirodna-boja-10497410/",
+        "id": "10497410",
+        "itemNoGlobal": "10497410",
+        "metadata": "Newest",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [
+          {
+            "name": "bež",
+            "id": "10003",
+            "hex": "f4f3d7"
+          },
+          {
+            "name": "smeđa",
+            "id": "10019",
+            "hex": "814820"
+          }
+        ],
+        "priceNumeral": 59.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      }
+    ]
+  }
+}

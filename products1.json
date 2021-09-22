@@ -1,0 +1,1124 @@
+{
+  "usergroup": "[SIK_NULL_TEST_20210825:B, SIK_PRODUCT_FRAGMENT_DATA_V5:B, SIK_UNIVERSAL_SERP_VETA_ANSWERS:B]",
+  "moreProducts": {
+    "productWindow": [
+      {
+        "itemNo": "90497524",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "34",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/hoestkvaell-nadstolnjak-siva__1031176_ph179054_s5.jpg",
+        "mainImageAlt": "HÖSTKVÄLL Nadstolnjak, siva, 35.5x183 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "HÖSTKVÄLL",
+        "typeName": "Nadstolnjak",
+        "itemMeasureReferenceText": "35.5x183 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/hoestkvaell-nadstolnjak-siva__0947675_pe798795_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/hoestkvaell-nadstolnjak-siva-90497524/",
+        "id": "90497524",
+        "itemNoGlobal": "90497524",
+        "metadata": "Newest",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [
+          {
+            "name": "siva",
+            "id": "10028",
+            "hex": "949494"
+          }
+        ],
+        "priceNumeral": 34.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "10497491",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "34",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "priceUnit": "2 kom",
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/hoestkvaell-kuhinjska-krpa-crna-crvena__1031178_ph179055_s5.jpg",
+        "mainImageAlt": "HÖSTKVÄLL Kuhinjska krpa, crna/crvena, 50x70 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "HÖSTKVÄLL",
+        "typeName": "Kuhinjska krpa",
+        "itemMeasureReferenceText": "50x70 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/hoestkvaell-kuhinjska-krpa-crna-crvena__0947692_pe798851_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/hoestkvaell-kuhinjska-krpa-crna-crvena-10497491/",
+        "id": "10497491",
+        "itemNoGlobal": "10497491",
+        "metadata": "Newest",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [
+          {
+            "name": "crvena",
+            "id": "10124",
+            "hex": "f00f00"
+          },
+          {
+            "name": "crna",
+            "id": "10139",
+            "hex": "000000"
+          }
+        ],
+        "priceNumeral": 34.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "00497383",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "59",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/hoestkvaell-ukrasna-jastucnica-pompon-siva__1031150_ph178977_s5.jpg",
+        "mainImageAlt": "HÖSTKVÄLL Ukrasna jastučnica, pompon/siva, 50x50 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "HÖSTKVÄLL",
+        "typeName": "Ukrasna jastučnica",
+        "itemMeasureReferenceText": "50x50 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/hoestkvaell-ukrasna-jastucnica-pompon-siva__0947631_pe798792_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/hoestkvaell-ukrasna-jastucnica-pompon-siva-00497383/",
+        "id": "00497383",
+        "itemNoGlobal": "00497383",
+        "metadata": "Newest",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [
+          {
+            "name": "siva",
+            "id": "10028",
+            "hex": "949494"
+          }
+        ],
+        "priceNumeral": 59.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "00497552",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "129",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/hoestkvaell-tanjur-za-posluzivanje-siva__1031173_ph179052_s5.jpg",
+        "mainImageAlt": "HÖSTKVÄLL Tanjur za posluživanje, siva, 47x36 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "HÖSTKVÄLL",
+        "typeName": "Tanjur za posluživanje",
+        "itemMeasureReferenceText": "47x36 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/hoestkvaell-tanjur-za-posluzivanje-siva__0980260_pe814863_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/hoestkvaell-tanjur-za-posluzivanje-siva-00497552/",
+        "id": "00497552",
+        "itemNoGlobal": "00497552",
+        "metadata": "Newest",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [
+          {
+            "name": "siva",
+            "id": "10028",
+            "hex": "949494"
+          }
+        ],
+        "priceNumeral": 129.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "60497549",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "16",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/hoestkvaell-posluzavnik-crna-crvena__1031185_ph179058_s5.jpg",
+        "mainImageAlt": "HÖSTKVÄLL Poslužavnik, crna/crvena, 20x28 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "HÖSTKVÄLL",
+        "typeName": "Poslužavnik",
+        "itemMeasureReferenceText": "20x28 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/hoestkvaell-posluzavnik-crna-crvena__0973080_pe811920_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/hoestkvaell-posluzavnik-crna-crvena-60497549/",
+        "id": "60497549",
+        "itemNoGlobal": "60497549",
+        "metadata": "Newest",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [
+          {
+            "name": "crvena",
+            "id": "10124",
+            "hex": "f00f00"
+          },
+          {
+            "name": "crna",
+            "id": "10139",
+            "hex": "000000"
+          }
+        ],
+        "priceNumeral": 16.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "50497540",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "49",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/hoestkvaell-ukrasna-bundeva-filc-siva__1031155_ph178980_s5.jpg",
+        "mainImageAlt": "HÖSTKVÄLL Ukrasna bundeva, filc siva",
+        "breathTaking": false,
+        "discount": "",
+        "name": "HÖSTKVÄLL",
+        "typeName": "Ukrasna bundeva",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/hoestkvaell-ukrasna-bundeva-filc-siva__0980395_pe814924_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/hoestkvaell-ukrasna-bundeva-filc-siva-50497540/",
+        "id": "50497540",
+        "itemNoGlobal": "50497540",
+        "metadata": "Newest",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [
+          {
+            "name": "siva",
+            "id": "10028",
+            "hex": "949494"
+          }
+        ],
+        "priceNumeral": 49.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "00497533",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "69",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/hoestkvaell-posuda-za-pitu-siva__1031164_ph178983_s5.jpg",
+        "mainImageAlt": "HÖSTKVÄLL Posuda za pitu, siva, 24 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "HÖSTKVÄLL",
+        "typeName": "Posuda za pitu",
+        "itemMeasureReferenceText": "24 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/hoestkvaell-posuda-za-pitu-siva__0980259_pe814862_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/hoestkvaell-posuda-za-pitu-siva-00497533/",
+        "id": "00497533",
+        "itemNoGlobal": "00497533",
+        "metadata": "Newest",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [
+          {
+            "name": "siva",
+            "id": "10028",
+            "hex": "949494"
+          },
+          {
+            "name": "bijela",
+            "id": "10156",
+            "hex": "ffffff"
+          }
+        ],
+        "priceNumeral": 69.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "70519428",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "9",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/hederlig-casa-za-sampanjac-prozirno-staklo__0514594_pe639554_s5.jpg",
+        "mainImageAlt": "HEDERLIG Čaša za šampanjac, prozirno staklo, 22 cl",
+        "breathTaking": false,
+        "discount": "",
+        "name": "HEDERLIG",
+        "typeName": "Čaša za šampanjac",
+        "itemMeasureReferenceText": "22 cl",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/hederlig-casa-za-sampanjac-prozirno-staklo__0713243_pe729353_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/hederlig-casa-za-sampanjac-prozirno-staklo-70519428/",
+        "id": "70519428",
+        "itemNoGlobal": "70519428",
+        "metadata": "Newest",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [
+          {
+            "name": "bijela",
+            "id": "10156",
+            "hex": "ffffff"
+          }
+        ],
+        "priceNumeral": 9.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "10497518",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "19",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "priceUnit": "2 kom",
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/hoestkvaell-ubrus-siva__1031160_ph178985_s5.jpg",
+        "mainImageAlt": "HÖSTKVÄLL Ubrus, siva, 40x40 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "HÖSTKVÄLL",
+        "typeName": "Ubrus",
+        "itemMeasureReferenceText": "40x40 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/hoestkvaell-ubrus-siva__0948120_pe798863_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/hoestkvaell-ubrus-siva-10497518/",
+        "id": "10497518",
+        "itemNoGlobal": "10497518",
+        "metadata": "Newest",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [
+          {
+            "name": "siva",
+            "id": "10028",
+            "hex": "949494"
+          }
+        ],
+        "priceNumeral": 19.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "50497390",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "59",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/hoestkvaell-ukrasna-jastucnica-narancasta__1031145_ph178976_s5.jpg",
+        "mainImageAlt": "HÖSTKVÄLL Ukrasna jastučnica, narančasta, 50x50 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "HÖSTKVÄLL",
+        "typeName": "Ukrasna jastučnica",
+        "itemMeasureReferenceText": "50x50 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/hoestkvaell-ukrasna-jastucnica-narancasta__0947627_pe798791_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/hoestkvaell-ukrasna-jastucnica-narancasta-50497390/",
+        "id": "50497390",
+        "itemNoGlobal": "50497390",
+        "metadata": "Newest",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [
+          {
+            "name": "narančasta",
+            "id": "10112",
+            "hex": "ff9a02"
+          }
+        ],
+        "priceNumeral": 59.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "40497569",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "99",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/hoestkvaell-umjetni-vijenac-u-zatvorenom-na-otvorenom-prirodna-boja__1031025_ph178984_s5.jpg",
+        "mainImageAlt": "HÖSTKVÄLL Umjetni vijenac, u zatvorenom/na otvorenom prirodna boja, 43 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "HÖSTKVÄLL",
+        "typeName": "Umjetni vijenac",
+        "itemMeasureReferenceText": "43 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/hoestkvaell-umjetni-vijenac-u-zatvorenom-na-otvorenom-prirodna-boja__0972907_pe811809_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/hoestkvaell-umjetni-vijenac-u-zatvorenom-na-otvorenom-prirodna-boja-40497569/",
+        "id": "40497569",
+        "itemNoGlobal": "40497569",
+        "metadata": "Newest",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [
+          {
+            "name": "bež",
+            "id": "10003",
+            "hex": "f4f3d7"
+          }
+        ],
+        "priceNumeral": 99.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "10497537",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "59",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/hoestkvaell-posuda-za-umak-siva__1031159_ph178982_s5.jpg",
+        "mainImageAlt": "HÖSTKVÄLL Posuda za umak, siva, 48 cl",
+        "breathTaking": false,
+        "discount": "",
+        "name": "HÖSTKVÄLL",
+        "typeName": "Posuda za umak",
+        "itemMeasureReferenceText": "48 cl",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/hoestkvaell-posuda-za-umak-siva__0983278_pe815985_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/hoestkvaell-posuda-za-umak-siva-10497537/",
+        "id": "10497537",
+        "itemNoGlobal": "10497537",
+        "metadata": "Newest",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [
+          {
+            "name": "siva",
+            "id": "10028",
+            "hex": "949494"
+          }
+        ],
+        "priceNumeral": 59.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "30497555",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "59",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/hoestkvaell-okvir-tamnosiva-paprat-zelena__1031158_ph178981_s5.jpg",
+        "mainImageAlt": "HÖSTKVÄLL Okvir, tamnosiva/paprat zelena, 21x26 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "HÖSTKVÄLL",
+        "typeName": "Okvir",
+        "itemMeasureReferenceText": "21x26 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/hoestkvaell-okvir-tamnosiva-paprat-zelena__0972916_pe812642_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/hoestkvaell-okvir-tamnosiva-paprat-zelena-30497555/",
+        "id": "30497555",
+        "itemNoGlobal": "30497555",
+        "metadata": "Newest",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [
+          {
+            "name": "siva",
+            "id": "10028",
+            "hex": "949494"
+          },
+          {
+            "name": "zelena",
+            "id": "10033",
+            "hex": "3b7d22"
+          }
+        ],
+        "priceNumeral": 59.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "10497561",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "49",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/hoestkvaell-umjetni-buket-u-zatvorenom-na-otvorenom-paprat-zelena__1031983_ph178972_s5.jpg",
+        "mainImageAlt": "HÖSTKVÄLL Umjetni buket, u zatvorenom/na otvorenom/paprat zelena, 44 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "HÖSTKVÄLL",
+        "typeName": "Umjetni buket",
+        "itemMeasureReferenceText": "44 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/hoestkvaell-umjetni-buket-u-zatvorenom-na-otvorenom-paprat-zelena__0972903_pe811805_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/hoestkvaell-umjetni-buket-u-zatvorenom-na-otvorenom-paprat-zelena-10497561/",
+        "id": "10497561",
+        "itemNoGlobal": "10497561",
+        "metadata": "Newest",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [
+          {
+            "name": "zelena",
+            "id": "10033",
+            "hex": "3b7d22"
+          }
+        ],
+        "priceNumeral": 49.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "00497514",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "29",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/hoestkvaell-podmetac-za-stol-siva__1031165_ph179051_s5.jpg",
+        "mainImageAlt": "HÖSTKVÄLL Podmetač za stol, siva, 35x45 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "HÖSTKVÄLL",
+        "typeName": "Podmetač za stol",
+        "itemMeasureReferenceText": "35x45 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/hoestkvaell-podmetac-za-stol-siva__0959903_pe806280_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/hoestkvaell-podmetac-za-stol-siva-00497514/",
+        "id": "00497514",
+        "itemNoGlobal": "00497514",
+        "metadata": "Newest",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [
+          {
+            "name": "siva",
+            "id": "10028",
+            "hex": "949494"
+          }
+        ],
+        "priceNumeral": 29.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "60497568",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "99",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/hoestkvaell-umjetni-vijenac-u-zatvorenom-na-otvorenom-paprat-zelena__1031987_ph179059_s5.jpg",
+        "mainImageAlt": "HÖSTKVÄLL Umjetni vijenac, u zatvorenom/na otvorenom/paprat zelena, 45 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "HÖSTKVÄLL",
+        "typeName": "Umjetni vijenac",
+        "itemMeasureReferenceText": "45 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/hoestkvaell-umjetni-vijenac-u-zatvorenom-na-otvorenom-paprat-zelena__0972909_pe811811_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/hoestkvaell-umjetni-vijenac-u-zatvorenom-na-otvorenom-paprat-zelena-60497568/",
+        "id": "60497568",
+        "itemNoGlobal": "60497568",
+        "metadata": "Newest",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [
+          {
+            "name": "zelena",
+            "id": "10033",
+            "hex": "3b7d22"
+          }
+        ],
+        "priceNumeral": 99.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "60497380",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "29",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/hoestkvaell-ukrasna-jastucnica-uzorak-lista-crna-narancasta__1031144_ph178964_s5.jpg",
+        "mainImageAlt": "HÖSTKVÄLL Ukrasna jastučnica, uzorak lista crna/narančasta, 50x50 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "HÖSTKVÄLL",
+        "typeName": "Ukrasna jastučnica",
+        "itemMeasureReferenceText": "50x50 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/hoestkvaell-ukrasna-jastucnica-uzorak-lista-crna-narancasta__0947624_pe798788_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/hoestkvaell-ukrasna-jastucnica-uzorak-lista-crna-narancasta-60497380/",
+        "id": "60497380",
+        "itemNoGlobal": "60497380",
+        "metadata": "Newest",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [
+          {
+            "name": "narančasta",
+            "id": "10112",
+            "hex": "ff9a02"
+          },
+          {
+            "name": "crna",
+            "id": "10139",
+            "hex": "000000"
+          }
+        ],
+        "priceNumeral": 29.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "00497397",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "149",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/hoestkvaell-lagana-deka-narancasta__1031184_ph179057_s5.jpg",
+        "mainImageAlt": "HÖSTKVÄLL Lagana deka, narančasta, 120x180 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "HÖSTKVÄLL",
+        "typeName": "Lagana deka",
+        "itemMeasureReferenceText": "120x180 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/hoestkvaell-lagana-deka-narancasta__0973073_pe811919_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/hoestkvaell-lagana-deka-narancasta-00497397/",
+        "id": "00497397",
+        "itemNoGlobal": "00497397",
+        "metadata": "Newest",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [
+          {
+            "name": "narančasta",
+            "id": "10112",
+            "hex": "ff9a02"
+          },
+          {
+            "name": "crna",
+            "id": "10139",
+            "hex": "000000"
+          }
+        ],
+        "priceNumeral": 149.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "90501031",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "69",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "mainImageAlt": "FICUS AUDREY Lončanica, 17 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "FICUS AUDREY",
+        "typeName": "Lončanica",
+        "itemMeasureReferenceText": "17 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/ficus-audrey-loncanica__1043032_pe841655_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/ficus-audrey-loncanica-90501031/",
+        "id": "90501031",
+        "itemNoGlobal": "90501031",
+        "metadata": "Newest",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [],
+        "priceNumeral": 69.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "90500593",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "29",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "mainImageAlt": "FITTONIA Lončanica, fitonija/razne vrste, 12 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "FITTONIA",
+        "typeName": "Lončanica",
+        "itemMeasureReferenceText": "12 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/fittonia-loncanica-fitonija-razne-vrste__0922069_pe788028_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/fittonia-loncanica-fitonija-razne-vrste-90500593/",
+        "id": "90500593",
+        "itemNoGlobal": "90500593",
+        "metadata": "Newest",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [
+          {
+            "name": "smeđa",
+            "id": "10019",
+            "hex": "814820"
+          },
+          {
+            "name": "zelena",
+            "id": "10033",
+            "hex": "3b7d22"
+          },
+          {
+            "name": "crvena",
+            "id": "10124",
+            "hex": "f00f00"
+          }
+        ],
+        "priceNumeral": 29.9,
+        "currencyCode": "HRK",
+        "ratingValue": 5.0,
+        "ratingCount": 1,
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "90500588",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "199",
+          "separator": "",
+          "decimals": "",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "mainImageAlt": "FICUS LYRATA Lončanica, lirasti fikus, 21 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "FICUS LYRATA",
+        "typeName": "Lončanica",
+        "itemMeasureReferenceText": "21 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/ficus-lyrata-loncanica-lirasti-fikus__0836979_pe778632_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/ficus-lyrata-loncanica-lirasti-fikus-90500588/",
+        "id": "90500588",
+        "itemNoGlobal": "90500588",
+        "metadata": "Newest",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [],
+        "priceNumeral": 199.0,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "70500933",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "59",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "mainImageAlt": "YUCCA ELEPHANTIPES Lončanica, 14 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "YUCCA ELEPHANTIPES",
+        "typeName": "Lončanica",
+        "itemMeasureReferenceText": "14 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/yucca-elephantipes-loncanica__1056793_pe848567_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/yucca-elephantipes-loncanica-70500933/",
+        "id": "70500933",
+        "itemNoGlobal": "70500933",
+        "metadata": "Newest",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [],
+        "priceNumeral": 59.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "70500594",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "29",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/calluna-loncanica-vrijesak-razne-boje__0902449_pe657477_s5.jpg",
+        "mainImageAlt": "CALLUNA Lončanica, vrijesak/razne boje, 13 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "CALLUNA",
+        "typeName": "Lončanica",
+        "itemMeasureReferenceText": "13 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/calluna-loncanica-vrijesak-razne-boje__0828423_pe776591_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/calluna-loncanica-vrijesak-razne-boje-70500594/",
+        "id": "70500594",
+        "itemNoGlobal": "70500594",
+        "metadata": "Newest",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [
+          {
+            "name": "zelena",
+            "id": "10033",
+            "hex": "3b7d22"
+          },
+          {
+            "name": "lila",
+            "id": "10064",
+            "hex": "a96ecc"
+          },
+          {
+            "name": "roza",
+            "id": "10119",
+            "hex": "ffb8c3"
+          },
+          {
+            "name": "bijela",
+            "id": "10156",
+            "hex": "ffffff"
+          }
+        ],
+        "priceNumeral": 29.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "70500589",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "29",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/coffea-arabica-loncanica-sa-salicom-arapska-kava__0902235_pe667991_s5.jpg",
+        "mainImageAlt": "COFFEA ARABICA Lončanica sa šalicom, arapska kava, 9 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "COFFEA ARABICA",
+        "typeName": "Lončanica sa šalicom",
+        "itemMeasureReferenceText": "9 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/coffea-arabica-loncanica-sa-salicom-arapska-kava__0573875_pe667947_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/coffea-arabica-loncanica-sa-salicom-arapska-kava-70500589/",
+        "id": "70500589",
+        "itemNoGlobal": "70500589",
+        "metadata": "Newest",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [
+          {
+            "name": "zelena",
+            "id": "10033",
+            "hex": "3b7d22"
+          }
+        ],
+        "priceNumeral": 29.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      }
+    ]
+  }
+}

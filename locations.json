@@ -1,0 +1,76 @@
+{
+    "lokacije":[
+        {   
+            "id":1,
+            "prebivaliste":"Mjesto za preuzimanje Zagreb Zapad",
+            "adresa":"Jankomir 31",
+            "postanskiBroj":"10090",
+            "zupanija":"Grad Zagreb",
+            "grad":"Zagreb",
+            "cijena":"45 kn"
+        },
+        {   
+            "id":2,
+            "prebivaliste":"IKEA Zagreb",
+            "adresa":"Ul.Alfreda Nobela 2. Sop, Sesvete-Kraljevec",
+            "postanskiBroj":"10361",
+            "zupanija":"Grad Zagreb",
+            "grad":"Zagreb",
+            "cijena":"0 kn"
+        },
+        {
+            "id":3,
+            "prebivaliste":"Dostavni centar Rijeka",
+            "adresa":"Bujanovo 10",
+            "postanskiBroj":"51219",
+            "zupanija":"Primorsko-Goranska Županija",
+            "grad":"Čavle",
+            "cijena":"0 kn"
+        },
+        {
+            "id":4,
+            "prebivaliste":"Dostavni centar Pula",
+            "adresa":"Industrijska ulica 15",
+            "postanskiBroj":"52100",
+            "zupanija":"Istarska Županija",
+            "grad":"Pula",
+            "cijena":"0 kn"
+        },
+        {   
+            "id":5,
+            "prebivaliste":"Dostavni centar Zadar",
+            "adresa":"Murvica IK 2",
+            "postanskiBroj":"23000",
+            "zupanija":"Zadarska Županija",
+            "grad":"Zadar",
+            "cijena":"0 kn"
+        },
+        {   
+            "id":6,
+            "prebivaliste":"Dostavni centar Osijek",
+            "adresa":"Kneza Trpimira 28",
+            "postanskiBroj":"31000",
+            "zupanija":"Osječko-Baranjska Županija",
+            "grad":"Osijek",
+            "cijena":"0 kn"
+        },
+        {   
+            "id":7,
+            "prebivaliste":"Dostavni centar Split",
+            "adresa":"Vukovarska 207",
+            "postanskiBroj":"21000",
+            "zupanija":"Splitsko-Dalmatinska Županija",
+            "grad":"Split",
+            "cijena":"0 kn"
+        },
+        {
+            "id":8,
+            "prebivaliste":"Dostavni centar Dubrovnik",
+            "adresa":"Gornja Čibača 14",
+            "postanskiBroj":"20207",
+            "zupanija":"Dubrovačko-Neretvanska Županija",
+            "grad":"Mlini",
+            "cijena":"0 kn"
+        }
+    ]
+}

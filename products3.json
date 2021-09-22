@@ -1,0 +1,1264 @@
+{
+  "usergroup": "[SIK_NULL_TEST_20210825:B, SIK_PRODUCT_FRAGMENT_DATA_V5:B, SIK_UNIVERSAL_SERP_VETA_ANSWERS:B]",
+  "moreProducts": {
+    "productWindow": [
+      {
+        "itemNo": "80484918",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "14",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/faergklar-tanjur-za-posluzivanje-mat-zelena__0986049_pe816997_s5.jpg",
+        "mainImageAlt": "FÄRGKLAR Tanjur za posluživanje, mat zelena, 27x14 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "FÄRGKLAR",
+        "typeName": "Tanjur za posluživanje",
+        "itemMeasureReferenceText": "27x14 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/faergklar-tanjur-za-posluzivanje-mat-zelena__0986048_pe816996_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/faergklar-tanjur-za-posluzivanje-mat-zelena-80484918/",
+        "id": "80484918",
+        "itemNoGlobal": "80484918",
+        "metadata": "Newest",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 2,
+          "variants": [
+            {
+              "id": "70477206",
+              "pipUrl": "https://www.ikea.com/hr/hr/p/faergklar-tanjur-za-posluzivanje-mat-zelena-70477206/",
+              "imageUrl": "https://www.ikea.com/hr/hr/images/products/faergklar-tanjur-za-posluzivanje-mat-zelena__0986064_pe817009_s5.jpg",
+              "imageAlt": "FÄRGKLAR Tanjur za posluživanje, mat zelena, 32x18 cm",
+              "quickFacts": [],
+              "availabilityInformation": {
+                "type": "NONE"
+              }
+            },
+            {
+              "id": "50479428",
+              "pipUrl": "https://www.ikea.com/hr/hr/p/faergklar-tanjur-za-posluzivanje-mat-zelena-50479428/",
+              "imageUrl": "https://www.ikea.com/hr/hr/images/products/faergklar-tanjur-za-posluzivanje-mat-zelena__0986075_pe817017_s5.jpg",
+              "imageAlt": "FÄRGKLAR Tanjur za posluživanje, mat zelena, 36x22 cm",
+              "quickFacts": [],
+              "availabilityInformation": {
+                "type": "NONE"
+              }
+            }
+          ]
+        },
+        "colors": [],
+        "priceNumeral": 14.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "00496350",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "119",
+          "separator": "",
+          "decimals": "",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/baggebo-tv-klupa-bijela__0981576_pe815407_s5.jpg",
+        "mainImageAlt": "BAGGEBO TV klupa, bijela, 90x35x40 cm",
+        "breathTaking": true,
+        "discount": "",
+        "name": "BAGGEBO",
+        "typeName": "TV klupa",
+        "itemMeasureReferenceText": "90x35x40 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/baggebo-tv-klupa-bijela__0981575_pe815405_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/baggebo-tv-klupa-bijela-00496350/",
+        "id": "00496350",
+        "itemNoGlobal": "00496350",
+        "metadata": "Newest",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [],
+        "priceNumeral": 119.0,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "60481204",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "149",
+          "separator": "",
+          "decimals": "",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/baggebo-element-s-vratima-bijela__1020932_pe832020_s5.jpg",
+        "mainImageAlt": "BAGGEBO Element s vratima, bijela, 50x30x80 cm",
+        "breathTaking": true,
+        "discount": "",
+        "name": "BAGGEBO",
+        "typeName": "Element s vratima",
+        "itemMeasureReferenceText": "50x30x80 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/baggebo-element-s-vratima-bijela__1016757_pe830615_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/baggebo-element-s-vratima-bijela-60481204/",
+        "id": "60481204",
+        "itemNoGlobal": "60481204",
+        "metadata": "Newest",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [
+          {
+            "name": "bijela",
+            "id": "10156",
+            "hex": "ffffff"
+          }
+        ],
+        "priceNumeral": 149.0,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "30501779",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "29",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/citrustraed-ukrasna-jastucnica-plava-bijela__0963773_pe808709_s5.jpg",
+        "mainImageAlt": "CITRUSTRÄD Ukrasna jastučnica, plava/bijela, 50x50 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "CITRUSTRÄD",
+        "typeName": "Ukrasna jastučnica",
+        "itemMeasureReferenceText": "50x50 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/citrustraed-ukrasna-jastucnica-plava-bijela__0963771_pe808711_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/citrustraed-ukrasna-jastucnica-plava-bijela-30501779/",
+        "id": "30501779",
+        "itemNoGlobal": "30501779",
+        "metadata": "Newest",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [
+          {
+            "name": "plava",
+            "id": "10007",
+            "hex": "0058a3"
+          },
+          {
+            "name": "bijela",
+            "id": "10156",
+            "hex": "ffffff"
+          }
+        ],
+        "priceNumeral": 29.9,
+        "currencyCode": "HRK",
+        "ratingValue": 5.0,
+        "ratingCount": 1,
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "70497228",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "24",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/formskoen-boca-za-vodu-prozirno-staklo-zuta__0985590_pe816690_s5.jpg",
+        "mainImageAlt": "FORMSKÖN Boca za vodu, prozirno staklo/žuta, 0.5 l",
+        "breathTaking": false,
+        "discount": "",
+        "name": "FORMSKÖN",
+        "typeName": "Boca za vodu",
+        "itemMeasureReferenceText": "0.5 l",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/formskoen-boca-za-vodu-prozirno-staklo-zuta__0985589_pe816689_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/formskoen-boca-za-vodu-prozirno-staklo-zuta-70497228/",
+        "id": "70497228",
+        "itemNoGlobal": "70497228",
+        "metadata": "Newest",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [],
+        "priceNumeral": 24.9,
+        "currencyCode": "HRK",
+        "ratingValue": 5.0,
+        "ratingCount": 1,
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "60478225",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "249",
+          "separator": "",
+          "decimals": "",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "mainImageAlt": "FÄRGKLAR Servis, 24 kom, mat svijetloroza",
+        "breathTaking": false,
+        "discount": "",
+        "name": "FÄRGKLAR",
+        "typeName": "Servis, 24 kom",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/faergklar-servis-24-kom-mat-svijetloroza__0986017_pe816972_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/faergklar-servis-24-kom-mat-svijetloroza-60478225/",
+        "id": "60478225",
+        "itemNoGlobal": "60478225",
+        "metadata": "Newest",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 3,
+          "variants": [
+            {
+              "id": "70478102",
+              "pipUrl": "https://www.ikea.com/hr/hr/p/faergklar-servis-24-kom-sjajno-tamnotirkizna-70478102/",
+              "imageUrl": "https://www.ikea.com/hr/hr/images/products/faergklar-servis-24-kom-sjajno-tamnotirkizna__0982328_pe816502_s5.jpg",
+              "imageAlt": "FÄRGKLAR Servis, 24 kom, sjajno tamnotirkizna",
+              "quickFacts": [],
+              "availabilityInformation": {
+                "type": "NONE"
+              }
+            },
+            {
+              "id": "10478100",
+              "pipUrl": "https://www.ikea.com/hr/hr/p/faergklar-servis-24-kom-mat-svijetlotirkizna-10478100/",
+              "imageUrl": "https://www.ikea.com/hr/hr/images/products/faergklar-servis-24-kom-mat-svijetlotirkizna__0959675_pe806129_s5.jpg",
+              "imageAlt": "FÄRGKLAR Servis, 24 kom, mat svijetlotirkizna",
+              "quickFacts": [],
+              "availabilityInformation": {
+                "type": "NONE"
+              }
+            },
+            {
+              "id": "50478216",
+              "pipUrl": "https://www.ikea.com/hr/hr/p/faergklar-servis-24-kom-mat-zelena-50478216/",
+              "imageUrl": "https://www.ikea.com/hr/hr/images/products/faergklar-servis-24-kom-mat-zelena__0986009_pe816965_s5.jpg",
+              "imageAlt": "FÄRGKLAR Servis, 24 kom, mat zelena",
+              "quickFacts": [],
+              "availabilityInformation": {
+                "type": "NONE"
+              }
+            }
+          ]
+        },
+        "colors": [],
+        "priceNumeral": 249.0,
+        "currencyCode": "HRK",
+        "ratingValue": 4.8,
+        "ratingCount": 4,
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "40391092",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "150",
+          "separator": "",
+          "decimals": "",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/forsand-vrata-bijela__0935918_ph153496_s5.jpg",
+        "mainImageAlt": "FORSAND Vrata, bijela, 50x195 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "FORSAND",
+        "typeName": "Vrata",
+        "itemMeasureReferenceText": "50x195 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/forsand-vrata-bijela__0140442_pe300499_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/forsand-vrata-bijela-40391092/",
+        "id": "40391092",
+        "itemNoGlobal": "40391092",
+        "metadata": "Newest",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 2,
+          "variants": [
+            {
+              "id": "80423604",
+              "pipUrl": "https://www.ikea.com/hr/hr/p/forsand-vrata-bijela-80423604/",
+              "imageUrl": "https://www.ikea.com/hr/hr/images/products/forsand-vrata-bijela__0503338_pe632592_s5.jpg",
+              "imageAlt": "FORSAND Vrata, bijela, 25x229 cm",
+              "quickFacts": [],
+              "availabilityInformation": {
+                "type": "NONE"
+              }
+            },
+            {
+              "id": "10442385",
+              "pipUrl": "https://www.ikea.com/hr/hr/p/forsand-vrata-bijela-10442385/",
+              "imageUrl": "https://www.ikea.com/hr/hr/images/products/forsand-vrata-bijela__0140448_pe300502_s5.jpg",
+              "imageAlt": "FORSAND Vrata, bijela, 50x229 cm",
+              "quickFacts": [],
+              "availabilityInformation": {
+                "type": "NONE"
+              }
+            }
+          ]
+        },
+        "colors": [
+          {
+            "name": "bijela",
+            "id": "10156",
+            "hex": "ffffff"
+          }
+        ],
+        "priceNumeral": 150.0,
+        "currencyCode": "HRK",
+        "ratingValue": 5.0,
+        "ratingCount": 5,
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "20463650",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "349",
+          "separator": "",
+          "decimals": "",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/ikea-365-ekspres-lonac-nehrdajuci-celik__0930847_pe790918_s5.jpg",
+        "mainImageAlt": "IKEA 365+ Ekspres lonac, nehrđajući čelik, 6 l",
+        "breathTaking": false,
+        "discount": "",
+        "name": "IKEA 365+",
+        "typeName": "Ekspres lonac",
+        "itemMeasureReferenceText": "6 l",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/ikea-365-ekspres-lonac-nehrdajuci-celik__0812235_pe771975_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/ikea-365-ekspres-lonac-nehrdajuci-celik-20463650/",
+        "id": "20463650",
+        "itemNoGlobal": "20463650",
+        "metadata": "Newest",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [],
+        "priceNumeral": 349.0,
+        "currencyCode": "HRK",
+        "ratingValue": 5.0,
+        "ratingCount": 1,
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "50484509",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "190",
+          "separator": "",
+          "decimals": "",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "mainImageAlt": "IVAR Kutija za odlaganje s kotačićima, bor, 78x30 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "IVAR",
+        "typeName": "Kutija za odlaganje s kotačićima",
+        "itemMeasureReferenceText": "78x30 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/ivar-kutija-za-odlaganje-s-kotacicima-bor__0945016_pe797533_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/ivar-kutija-za-odlaganje-s-kotacicima-bor-50484509/",
+        "id": "50484509",
+        "itemNoGlobal": "50484509",
+        "metadata": "Newest",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [
+          {
+            "name": "bež",
+            "id": "10003",
+            "hex": "f4f3d7"
+          }
+        ],
+        "priceNumeral": 190.0,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "40495259",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "24",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/majbraeken-ukrasna-jastucnica-sivo-plava__0963800_pe808726_s5.jpg",
+        "mainImageAlt": "MAJBRÄKEN Ukrasna jastučnica, sivo-plava, 50x50 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "MAJBRÄKEN",
+        "typeName": "Ukrasna jastučnica",
+        "itemMeasureReferenceText": "50x50 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/majbraeken-ukrasna-jastucnica-sivo-plava__0963799_pe808725_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/majbraeken-ukrasna-jastucnica-sivo-plava-40495259/",
+        "id": "40495259",
+        "itemNoGlobal": "40495259",
+        "metadata": "Newest",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 5,
+          "variants": [
+            {
+              "id": "40495235",
+              "pipUrl": "https://www.ikea.com/hr/hr/p/majbraeken-ukrasna-jastucnica-svijetlosivo-bez-40495235/",
+              "imageUrl": "https://www.ikea.com/hr/hr/images/products/majbraeken-ukrasna-jastucnica-svijetlosivo-bez__0963805_pe808731_s5.jpg",
+              "imageAlt": "MAJBRÄKEN Ukrasna jastučnica, svijetlosivo-bež, 50x50 cm",
+              "quickFacts": [],
+              "availabilityInformation": {
+                "type": "NONE"
+              }
+            },
+            {
+              "id": "70495234",
+              "pipUrl": "https://www.ikea.com/hr/hr/p/majbraeken-ukrasna-jastucnica-crno-plava-70495234/",
+              "imageUrl": "https://www.ikea.com/hr/hr/images/products/majbraeken-ukrasna-jastucnica-crno-plava__0963782_pe808719_s5.jpg",
+              "imageAlt": "MAJBRÄKEN Ukrasna jastučnica, crno-plava, 50x50 cm",
+              "quickFacts": [],
+              "availabilityInformation": {
+                "type": "NONE"
+              }
+            },
+            {
+              "id": "20495236",
+              "pipUrl": "https://www.ikea.com/hr/hr/p/majbraeken-ukrasna-jastucnica-siva-20495236/",
+              "imageUrl": "https://www.ikea.com/hr/hr/images/products/majbraeken-ukrasna-jastucnica-siva__0963785_pe808722_s5.jpg",
+              "imageAlt": "MAJBRÄKEN Ukrasna jastučnica, siva, 50x50 cm",
+              "quickFacts": [],
+              "availabilityInformation": {
+                "type": "NONE"
+              }
+            },
+            {
+              "id": "10495265",
+              "pipUrl": "https://www.ikea.com/hr/hr/p/majbraeken-ukrasna-jastucnica-sivo-zelena-10495265/",
+              "imageUrl": "https://www.ikea.com/hr/hr/images/products/majbraeken-ukrasna-jastucnica-sivo-zelena__0963802_pe808728_s5.jpg",
+              "imageAlt": "MAJBRÄKEN Ukrasna jastučnica, sivo-zelena, 50x50 cm",
+              "quickFacts": [],
+              "availabilityInformation": {
+                "type": "NONE"
+              }
+            },
+            {
+              "id": "90495271",
+              "pipUrl": "https://www.ikea.com/hr/hr/p/majbraeken-ukrasna-jastucnica-svijetloroza-90495271/",
+              "imageUrl": "https://www.ikea.com/hr/hr/images/products/majbraeken-ukrasna-jastucnica-svijetloroza__0963808_pe808734_s5.jpg",
+              "imageAlt": "MAJBRÄKEN Ukrasna jastučnica, svijetloroza, 50x50 cm",
+              "quickFacts": [],
+              "availabilityInformation": {
+                "type": "NONE"
+              }
+            }
+          ]
+        },
+        "colors": [
+          {
+            "name": "siva",
+            "id": "10028",
+            "hex": "949494"
+          }
+        ],
+        "priceNumeral": 24.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "30492954",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "199",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/silvertistel-navlaka-za-poplun-i-2-jastucnice-bijela-tamnosiva__0955718_pe804001_s5.jpg",
+        "mainImageAlt": "SILVERTISTEL Navlaka za poplun i 2 jastučnice, bijela/tamnosiva, 200x200/50x60 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "SILVERTISTEL",
+        "typeName": "Navlaka za poplun i 2 jastučnice",
+        "itemMeasureReferenceText": "200x200/50x60 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/silvertistel-navlaka-za-poplun-i-2-jastucnice-bijela-tamnosiva__0955717_pe803997_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/silvertistel-navlaka-za-poplun-i-2-jastucnice-bijela-tamnosiva-30492954/",
+        "id": "30492954",
+        "itemNoGlobal": "80492961",
+        "metadata": "Newest",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [
+          {
+            "name": "bijela",
+            "id": "10156",
+            "hex": "ffffff"
+          }
+        ],
+        "priceNumeral": 199.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "10496665",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "19",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/siesjoen-rucnik-za-ruke-bijela-plava-crta__0964092_pe808870_s5.jpg",
+        "mainImageAlt": "SIESJÖN Ručnik za ruke, bijela/plava crta, 50x100 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "SIESJÖN",
+        "typeName": "Ručnik za ruke",
+        "itemMeasureReferenceText": "50x100 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/siesjoen-rucnik-za-ruke-bijela-plava-crta__0964091_pe808874_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/siesjoen-rucnik-za-ruke-bijela-plava-crta-10496665/",
+        "id": "10496665",
+        "itemNoGlobal": "10496665",
+        "metadata": "Newest",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [
+          {
+            "name": "plava",
+            "id": "10007",
+            "hex": "0058a3"
+          },
+          {
+            "name": "bijela",
+            "id": "10156",
+            "hex": "ffffff"
+          },
+          {
+            "name": "višebojno",
+            "id": "10583"
+          }
+        ],
+        "priceNumeral": 19.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "60497304",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "39",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/vindloes-drzac-za-lucicu-kuca-crna__0990150_pe818778_s5.jpg",
+        "mainImageAlt": "VINDLÖS Držač za lučicu, kuća/crna, 14 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "VINDLÖS",
+        "typeName": "Držač za lučicu",
+        "itemMeasureReferenceText": "14 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/vindloes-drzac-za-lucicu-kuca-crna__0990149_pe818776_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/vindloes-drzac-za-lucicu-kuca-crna-60497304/",
+        "id": "60497304",
+        "itemNoGlobal": "60497304",
+        "metadata": "Newest",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [],
+        "priceNumeral": 39.9,
+        "currencyCode": "HRK",
+        "ratingValue": 5.0,
+        "ratingCount": 1,
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "60489945",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "119",
+          "separator": "",
+          "decimals": "",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/baggebo-regal-metal-svijetlotirkizna__0981569_pe815401_s5.jpg",
+        "mainImageAlt": "BAGGEBO Regal, metal/svijetlotirkizna, 60x30x80 cm",
+        "breathTaking": true,
+        "discount": "",
+        "name": "BAGGEBO",
+        "typeName": "Regal",
+        "itemMeasureReferenceText": "60x30x80 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/baggebo-regal-metal-svijetlotirkizna__1023962_pe833373_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/baggebo-regal-metal-svijetlotirkizna-60489945/",
+        "id": "60489945",
+        "itemNoGlobal": "60489945",
+        "metadata": "Newest",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [],
+        "priceNumeral": 119.0,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "50481172",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "129",
+          "separator": "",
+          "decimals": "",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/baggebo-regal-metal-bijela__0981563_pe815398_s5.jpg",
+        "mainImageAlt": "BAGGEBO Regal, metal/bijela, 60x25x116 cm",
+        "breathTaking": true,
+        "discount": "",
+        "name": "BAGGEBO",
+        "typeName": "Regal",
+        "itemMeasureReferenceText": "60x25x116 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/baggebo-regal-metal-bijela__0981562_pe815396_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/baggebo-regal-metal-bijela-50481172/",
+        "id": "50481172",
+        "itemNoGlobal": "50481172",
+        "metadata": "Newest",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [],
+        "priceNumeral": 129.0,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "30493185",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "79",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/kvastfibbla-navlaka-za-poplun-i-jastucnica-bijela-tamnoplava__0955344_pe803772_s5.jpg",
+        "mainImageAlt": "KVASTFIBBLA Navlaka za poplun i jastučnica, bijela/tamnoplava, 150x200/50x60 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "KVASTFIBBLA",
+        "typeName": "Navlaka za poplun i jastučnica",
+        "itemMeasureReferenceText": "150x200/50x60 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/kvastfibbla-navlaka-za-poplun-i-jastucnica-bijela-tamnoplava__0955339_pe803777_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/kvastfibbla-navlaka-za-poplun-i-jastucnica-bijela-tamnoplava-30493185/",
+        "id": "30493185",
+        "itemNoGlobal": "30493185",
+        "metadata": "Newest",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 1,
+          "variants": [
+            {
+              "id": "50493170",
+              "pipUrl": "https://www.ikea.com/hr/hr/p/kvastfibbla-navlaka-za-poplun-i-2-jastucnice-bijela-tamnoplava-50493170/",
+              "imageUrl": "https://www.ikea.com/hr/hr/images/products/kvastfibbla-navlaka-za-poplun-i-2-jastucnice-bijela-tamnoplava__0955339_pe803777_s5.jpg",
+              "imageAlt": "KVASTFIBBLA Navlaka za poplun i 2 jastučnice, bijela/tamnoplava, 200x200/50x60 cm",
+              "quickFacts": [],
+              "availabilityInformation": {
+                "type": "NONE"
+              }
+            }
+          ]
+        },
+        "colors": [
+          {
+            "name": "plava",
+            "id": "10007",
+            "hex": "0058a3"
+          }
+        ],
+        "priceNumeral": 79.9,
+        "currencyCode": "HRK",
+        "ratingValue": 5.0,
+        "ratingCount": 1,
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "10497815",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "29",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/mosslanda-letva-za-sliku-bijela-efekt-bajcanog-bora__0990575_pe819079_s5.jpg",
+        "mainImageAlt": "MOSSLANDA Letva za sliku, bijela efekt bajcanog bora, 55 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "MOSSLANDA",
+        "typeName": "Letva za sliku",
+        "itemMeasureReferenceText": "55 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/mosslanda-letva-za-sliku-bijela-efekt-bajcanog-bora__0990574_pe819076_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/mosslanda-letva-za-sliku-bijela-efekt-bajcanog-bora-10497815/",
+        "id": "10497815",
+        "itemNoGlobal": "10497815",
+        "metadata": "Newest",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 5,
+          "variants": [
+            {
+              "id": "70292104",
+              "pipUrl": "https://www.ikea.com/hr/hr/p/mosslanda-letva-za-sliku-crna-70292104/",
+              "imageUrl": "https://www.ikea.com/hr/hr/images/products/mosslanda-letva-za-sliku-crna__0634120_pe696314_s5.jpg",
+              "imageAlt": "MOSSLANDA Letva za sliku, crna, 115 cm",
+              "quickFacts": [],
+              "availabilityInformation": {
+                "type": "NONE"
+              }
+            },
+            {
+              "id": "20291767",
+              "pipUrl": "https://www.ikea.com/hr/hr/p/mosslanda-letva-za-sliku-crna-20291767/",
+              "imageUrl": "https://www.ikea.com/hr/hr/images/products/mosslanda-letva-za-sliku-crna__0634118_pe696312_s5.jpg",
+              "imageAlt": "MOSSLANDA Letva za sliku, crna, 55 cm",
+              "quickFacts": [],
+              "availabilityInformation": {
+                "type": "NONE"
+              }
+            },
+            {
+              "id": "90292103",
+              "pipUrl": "https://www.ikea.com/hr/hr/p/mosslanda-letva-za-sliku-bijela-90292103/",
+              "imageUrl": "https://www.ikea.com/hr/hr/images/products/mosslanda-letva-za-sliku-bijela__0634121_pe696313_s5.jpg",
+              "imageAlt": "MOSSLANDA Letva za sliku, bijela, 115 cm",
+              "quickFacts": [],
+              "availabilityInformation": {
+                "type": "NONE"
+              }
+            },
+            {
+              "id": "40291766",
+              "pipUrl": "https://www.ikea.com/hr/hr/p/mosslanda-letva-za-sliku-bijela-40291766/",
+              "imageUrl": "https://www.ikea.com/hr/hr/images/products/mosslanda-letva-za-sliku-bijela__0634119_pe696315_s5.jpg",
+              "imageAlt": "MOSSLANDA Letva za sliku, bijela, 55 cm",
+              "quickFacts": [],
+              "availabilityInformation": {
+                "type": "NONE"
+              }
+            },
+            {
+              "id": "40497814",
+              "pipUrl": "https://www.ikea.com/hr/hr/p/mosslanda-letva-za-sliku-bijela-efekt-bajcanog-bora-40497814/",
+              "imageUrl": "https://www.ikea.com/hr/hr/images/products/mosslanda-letva-za-sliku-bijela-efekt-bajcanog-bora__0990548_pe819042_s5.jpg",
+              "imageAlt": "MOSSLANDA Letva za sliku, bijela efekt bajcanog bora, 115 cm",
+              "quickFacts": [],
+              "availabilityInformation": {
+                "type": "NONE"
+              }
+            }
+          ]
+        },
+        "colors": [],
+        "priceNumeral": 29.9,
+        "currencyCode": "HRK",
+        "ratingValue": 4.9,
+        "ratingCount": 87,
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "10456645",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "49",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/skissen-kupaonski-pribor-3-kom__0954100_pe803174_s5.jpg",
+        "mainImageAlt": "SKISSEN Kupaonski pribor, 3 kom",
+        "breathTaking": false,
+        "discount": "",
+        "name": "SKISSEN",
+        "typeName": "Kupaonski pribor, 3 kom",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/skissen-kupaonski-pribor-3-kom__0925904_pe788954_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/skissen-kupaonski-pribor-3-kom-10456645/",
+        "id": "10456645",
+        "itemNoGlobal": "10456645",
+        "metadata": "Newest",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [
+          {
+            "name": "bijela",
+            "id": "10156",
+            "hex": "ffffff"
+          }
+        ],
+        "priceNumeral": 49.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "40498922",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "49",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/framtung-torba-za-rucak-crna__0985599_pe816695_s5.jpg",
+        "mainImageAlt": "FRAMTUNG Torba za ručak, crna, 22x17x35 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "FRAMTUNG",
+        "typeName": "Torba za ručak",
+        "itemMeasureReferenceText": "22x17x35 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/framtung-torba-za-rucak-crna__0985598_pe816694_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/framtung-torba-za-rucak-crna-40498922/",
+        "id": "40498922",
+        "itemNoGlobal": "40498922",
+        "metadata": "Newest",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [
+          {
+            "name": "crna",
+            "id": "10139",
+            "hex": "000000"
+          }
+        ],
+        "priceNumeral": 49.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "80456637",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "79",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/tvalsjoen-kupaonski-pribor-3-kom__0954107_pe803175_s5.jpg",
+        "mainImageAlt": "TVÅLSJÖN Kupaonski pribor, 3 kom",
+        "breathTaking": false,
+        "discount": "",
+        "name": "TVÅLSJÖN",
+        "typeName": "Kupaonski pribor, 3 kom",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/tvalsjoen-kupaonski-pribor-3-kom__0943289_pe796871_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/tvalsjoen-kupaonski-pribor-3-kom-80456637/",
+        "id": "80456637",
+        "itemNoGlobal": "80456637",
+        "metadata": "Newest",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [
+          {
+            "name": "siva",
+            "id": "10028",
+            "hex": "949494"
+          },
+          {
+            "name": "crna",
+            "id": "10139",
+            "hex": "000000"
+          }
+        ],
+        "priceNumeral": 79.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "60490449",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "1.299",
+          "separator": "",
+          "decimals": "",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/gladstad-ojastuceni-okvir-kreveta-kabusa-svijetlosiva__0984367_pe816242_s5.jpg",
+        "mainImageAlt": "GLADSTAD Ojastučeni okvir kreveta, Kabusa svijetlosiva, 140x200 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "GLADSTAD",
+        "typeName": "Ojastučeni okvir kreveta",
+        "itemMeasureReferenceText": "140x200 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/gladstad-ojastuceni-okvir-kreveta-kabusa-svijetlosiva__0984348_pe816238_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/gladstad-ojastuceni-okvir-kreveta-kabusa-svijetlosiva-60490449/",
+        "id": "60490449",
+        "itemNoGlobal": "60490449",
+        "metadata": "Newest",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 1,
+          "variants": [
+            {
+              "id": "80490453",
+              "pipUrl": "https://www.ikea.com/hr/hr/p/gladstad-ojastuceni-okvir-kreveta-kabusa-svijetlosiva-80490453/",
+              "imageUrl": "https://www.ikea.com/hr/hr/images/products/gladstad-ojastuceni-okvir-kreveta-kabusa-svijetlosiva__0984348_pe816238_s5.jpg",
+              "imageAlt": "GLADSTAD Ojastučeni okvir kreveta, Kabusa svijetlosiva, 160x200 cm",
+              "quickFacts": [],
+              "availabilityInformation": {
+                "type": "NONE"
+              }
+            }
+          ]
+        },
+        "colors": [
+          {
+            "name": "siva",
+            "id": "10028",
+            "hex": "949494"
+          }
+        ],
+        "priceNumeral": 1299.0,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "50498078",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "149",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/vattendans-okretni-podmetac-akacija__0986712_pe817290_s5.jpg",
+        "mainImageAlt": "VATTENDANS Okretni podmetač, akacija, 47 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "VATTENDANS",
+        "typeName": "Okretni podmetač",
+        "itemMeasureReferenceText": "47 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/vattendans-okretni-podmetac-akacija__0986710_pe817288_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/vattendans-okretni-podmetac-akacija-50498078/",
+        "id": "50498078",
+        "itemNoGlobal": "50498078",
+        "metadata": "Newest",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [],
+        "priceNumeral": 149.9,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "40496579",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "24",
+          "separator": ",",
+          "decimals": "90",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/enrum-fenjer-za-lucicu-unutar-vanjski-siva__0990147_pe818771_s5.jpg",
+        "mainImageAlt": "ENRUM Fenjer za lučicu, unutar/vanjski, siva, 22 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "ENRUM",
+        "typeName": "Fenjer za lučicu, unutar/vanjski",
+        "itemMeasureReferenceText": "22 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/enrum-fenjer-za-lucicu-unutar-vanjski-siva__0990146_pe818769_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/enrum-fenjer-za-lucicu-unutar-vanjski-siva-40496579/",
+        "id": "40496579",
+        "itemNoGlobal": "40496579",
+        "metadata": "Newest",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 1,
+          "variants": [
+            {
+              "id": "60445112",
+              "pipUrl": "https://www.ikea.com/hr/hr/p/enrum-fenjer-za-lucicu-unutar-vanjski-crna-60445112/",
+              "imageUrl": "https://www.ikea.com/hr/hr/images/products/enrum-fenjer-za-lucicu-unutar-vanjski-crna__0888378_pe782042_s5.jpg",
+              "imageAlt": "ENRUM Fenjer za lučicu, unutar/vanjski, crna, 22 cm",
+              "quickFacts": [],
+              "availabilityInformation": {
+                "type": "NONE"
+              }
+            }
+          ]
+        },
+        "colors": [],
+        "priceNumeral": 24.9,
+        "currencyCode": "HRK",
+        "ratingValue": 5.0,
+        "ratingCount": 4,
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      },
+      {
+        "itemNo": "80496025",
+        "itemType": "ART",
+        "price": {
+          "prefix": "",
+          "wholeNumber": "1.699",
+          "separator": "",
+          "decimals": "",
+          "suffix": " kn",
+          "isRegularCurrency": true
+        },
+        "contextualImageUrl": "https://www.ikea.com/hr/hr/images/products/idanaes-komoda-bijela__1021469_pe832140_s5.jpg",
+        "mainImageAlt": "IDANÄS Komoda, bijela, 124x50x95 cm",
+        "breathTaking": false,
+        "discount": "",
+        "name": "IDANÄS",
+        "typeName": "Komoda",
+        "itemMeasureReferenceText": "124x50x95 cm",
+        "mainImageUrl": "https://www.ikea.com/hr/hr/images/products/idanaes-komoda-bijela__1009040_pe827429_s5.jpg",
+        "pipUrl": "https://www.ikea.com/hr/hr/p/idanaes-komoda-bijela-80496025/",
+        "id": "80496025",
+        "itemNoGlobal": "80496025",
+        "metadata": "Newest",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+          "numberOfVariants": 0,
+          "variants": []
+        },
+        "colors": [
+          {
+            "name": "bijela",
+            "id": "10156",
+            "hex": "ffffff"
+          }
+        ],
+        "priceNumeral": 1699.0,
+        "currencyCode": "HRK",
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novo",
+        "quickFacts": [],
+        "availabilityInformation": {
+          "type": "NONE"
+        }
+      }
+    ]
+  }
+}
